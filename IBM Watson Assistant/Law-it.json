@@ -1,0 +1,3740 @@
+{
+  "intents": [
+    {
+      "intent": "sec1",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "sec 1"
+        },
+        {
+          "text": "section 1"
+        },
+        {
+          "text": "tell me about section 1"
+        },
+        {
+          "text": "tell me about section one",
+          "mentions": [
+            {
+              "entity": "1",
+              "location": [
+                22,
+                25
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "intent": "sec10",
+      "examples": [
+        {
+          "text": "10"
+        },
+        {
+          "text": "sec 10"
+        },
+        {
+          "text": "section 10"
+        },
+        {
+          "text": "tell me about section 10"
+        }
+      ]
+    },
+    {
+      "intent": "sec11",
+      "examples": [
+        {
+          "text": "11"
+        },
+        {
+          "text": "sec 11"
+        },
+        {
+          "text": "section 11"
+        },
+        {
+          "text": "tell me about section 11"
+        }
+      ]
+    },
+    {
+      "intent": "sec12",
+      "examples": [
+        {
+          "text": "12"
+        },
+        {
+          "text": "sec 12"
+        },
+        {
+          "text": "section 12"
+        },
+        {
+          "text": "tell me about section 12"
+        }
+      ]
+    },
+    {
+      "intent": "sec13",
+      "examples": [
+        {
+          "text": "13"
+        },
+        {
+          "text": "sec13"
+        },
+        {
+          "text": "section 13"
+        },
+        {
+          "text": "tell me about section 13"
+        }
+      ]
+    },
+    {
+      "intent": "sec14",
+      "examples": [
+        {
+          "text": "14"
+        },
+        {
+          "text": "sec14"
+        },
+        {
+          "text": "section 14"
+        },
+        {
+          "text": "tell me about section 14"
+        }
+      ]
+    },
+    {
+      "intent": "sec15",
+      "examples": [
+        {
+          "text": "15"
+        },
+        {
+          "text": "sec 15"
+        },
+        {
+          "text": "section 15"
+        },
+        {
+          "text": "tell me about section 15"
+        }
+      ]
+    },
+    {
+      "intent": "sec16",
+      "examples": [
+        {
+          "text": "16"
+        },
+        {
+          "text": "sec 16"
+        },
+        {
+          "text": "section 16"
+        },
+        {
+          "text": "tell me about section 16"
+        }
+      ]
+    },
+    {
+      "intent": "sec17",
+      "examples": [
+        {
+          "text": "17"
+        },
+        {
+          "text": "sec 17"
+        },
+        {
+          "text": "section 17"
+        },
+        {
+          "text": "tell me about section 17"
+        }
+      ]
+    },
+    {
+      "intent": "sec18",
+      "examples": [
+        {
+          "text": "18"
+        },
+        {
+          "text": "sec 18"
+        },
+        {
+          "text": "section 18"
+        },
+        {
+          "text": "tell me about section 18"
+        }
+      ]
+    },
+    {
+      "intent": "sec19",
+      "examples": [
+        {
+          "text": "19"
+        },
+        {
+          "text": "sec 19"
+        },
+        {
+          "text": "section 19"
+        },
+        {
+          "text": "tell me about section 19"
+        }
+      ]
+    },
+    {
+      "intent": "sec2",
+      "examples": [
+        {
+          "text": "sec 2"
+        },
+        {
+          "text": "section 2"
+        },
+        {
+          "text": "tell me about section 2"
+        }
+      ]
+    },
+    {
+      "intent": "sec20",
+      "examples": [
+        {
+          "text": "20"
+        },
+        {
+          "text": "sec 20"
+        },
+        {
+          "text": "section 20"
+        },
+        {
+          "text": "tell me about section 20"
+        }
+      ]
+    },
+    {
+      "intent": "sec21",
+      "examples": [
+        {
+          "text": "21"
+        },
+        {
+          "text": "sec 21"
+        },
+        {
+          "text": "section 21"
+        },
+        {
+          "text": "tell me about section 21"
+        }
+      ]
+    },
+    {
+      "intent": "sec22",
+      "examples": [
+        {
+          "text": "22"
+        },
+        {
+          "text": "sec 22"
+        },
+        {
+          "text": "section 22"
+        },
+        {
+          "text": "tell me about section 22"
+        }
+      ]
+    },
+    {
+      "intent": "sec23",
+      "examples": [
+        {
+          "text": "23"
+        },
+        {
+          "text": "sec 23"
+        },
+        {
+          "text": "section 23"
+        },
+        {
+          "text": "tell me about section 23"
+        }
+      ]
+    },
+    {
+      "intent": "sec24",
+      "examples": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "sec 24"
+        },
+        {
+          "text": "section 24"
+        },
+        {
+          "text": "tell me about section 24"
+        }
+      ]
+    },
+    {
+      "intent": "sec25",
+      "examples": [
+        {
+          "text": "25"
+        },
+        {
+          "text": "sec 25"
+        },
+        {
+          "text": "section 25"
+        },
+        {
+          "text": "tell me about section 25"
+        }
+      ]
+    },
+    {
+      "intent": "sec26",
+      "examples": [
+        {
+          "text": "26"
+        },
+        {
+          "text": "sec 26"
+        },
+        {
+          "text": "section 26"
+        },
+        {
+          "text": "tell me about section 26"
+        }
+      ]
+    },
+    {
+      "intent": "sec27",
+      "examples": [
+        {
+          "text": "27"
+        },
+        {
+          "text": "sec 27"
+        },
+        {
+          "text": "section 27"
+        },
+        {
+          "text": "tell me about section 27"
+        }
+      ]
+    },
+    {
+      "intent": "sec28",
+      "examples": [
+        {
+          "text": "28"
+        },
+        {
+          "text": "sec 28"
+        },
+        {
+          "text": "section 28"
+        },
+        {
+          "text": "tell me about section 28"
+        }
+      ]
+    },
+    {
+      "intent": "sec29",
+      "examples": [
+        {
+          "text": "29"
+        },
+        {
+          "text": "sec 29"
+        },
+        {
+          "text": "section 29"
+        },
+        {
+          "text": "tell me about section 29"
+        }
+      ]
+    },
+    {
+      "intent": "sec3",
+      "examples": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "sec3"
+        },
+        {
+          "text": "section 3"
+        },
+        {
+          "text": "tell me about section 3"
+        }
+      ]
+    },
+    {
+      "intent": "sec30",
+      "examples": [
+        {
+          "text": "30"
+        },
+        {
+          "text": "sec 30"
+        },
+        {
+          "text": "section 30"
+        },
+        {
+          "text": "tell me about section 30"
+        }
+      ]
+    },
+    {
+      "intent": "sec31",
+      "examples": [
+        {
+          "text": "31"
+        },
+        {
+          "text": "sec 31"
+        },
+        {
+          "text": "section 31"
+        },
+        {
+          "text": "tell me about section 31"
+        }
+      ]
+    },
+    {
+      "intent": "sec32",
+      "examples": [
+        {
+          "text": "32"
+        },
+        {
+          "text": "sec 32"
+        },
+        {
+          "text": "section 32"
+        },
+        {
+          "text": "tell me about section 32"
+        }
+      ]
+    },
+    {
+      "intent": "sec33",
+      "examples": [
+        {
+          "text": "33"
+        },
+        {
+          "text": "sec 33"
+        },
+        {
+          "text": "section 33"
+        },
+        {
+          "text": "tell me about section 33"
+        }
+      ]
+    },
+    {
+      "intent": "sec34",
+      "examples": [
+        {
+          "text": "34"
+        },
+        {
+          "text": "sec 34"
+        },
+        {
+          "text": "section 34"
+        },
+        {
+          "text": "tell me about section 34"
+        }
+      ]
+    },
+    {
+      "intent": "sec35",
+      "examples": [
+        {
+          "text": "35"
+        },
+        {
+          "text": "sec 35"
+        },
+        {
+          "text": "section 35"
+        },
+        {
+          "text": "tell me about section 35"
+        }
+      ]
+    },
+    {
+      "intent": "sec36",
+      "examples": [
+        {
+          "text": "36"
+        },
+        {
+          "text": "sec 36"
+        },
+        {
+          "text": "section 36"
+        },
+        {
+          "text": "tell me about section 36"
+        }
+      ]
+    },
+    {
+      "intent": "sec37",
+      "examples": [
+        {
+          "text": "37"
+        },
+        {
+          "text": "sec 37"
+        },
+        {
+          "text": "section 37"
+        },
+        {
+          "text": "tell me about section 37"
+        }
+      ]
+    },
+    {
+      "intent": "sec38",
+      "examples": [
+        {
+          "text": "38"
+        },
+        {
+          "text": "sec 38"
+        },
+        {
+          "text": "section 38"
+        },
+        {
+          "text": "tell me about section 38"
+        }
+      ]
+    },
+    {
+      "intent": "sec39",
+      "examples": [
+        {
+          "text": "39"
+        },
+        {
+          "text": "sec 39"
+        },
+        {
+          "text": "section 39"
+        },
+        {
+          "text": "tell me about section 39"
+        }
+      ]
+    },
+    {
+      "intent": "sec4",
+      "examples": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "sec 4"
+        },
+        {
+          "text": "section 4"
+        },
+        {
+          "text": "tell me about section 4"
+        }
+      ]
+    },
+    {
+      "intent": "sec40",
+      "examples": [
+        {
+          "text": "40"
+        },
+        {
+          "text": "sec 40"
+        },
+        {
+          "text": "section 40"
+        },
+        {
+          "text": "tell me about section 40"
+        }
+      ]
+    },
+    {
+      "intent": "sec41",
+      "examples": [
+        {
+          "text": "41"
+        },
+        {
+          "text": "sec 41"
+        },
+        {
+          "text": "section 41"
+        },
+        {
+          "text": "tell me about section 41"
+        }
+      ]
+    },
+    {
+      "intent": "sec42",
+      "examples": [
+        {
+          "text": "42"
+        },
+        {
+          "text": "sec 42"
+        },
+        {
+          "text": "section 42"
+        },
+        {
+          "text": "tell me about section 42"
+        }
+      ]
+    },
+    {
+      "intent": "sec43",
+      "examples": [
+        {
+          "text": "43"
+        },
+        {
+          "text": "sec 43"
+        },
+        {
+          "text": "section 43"
+        },
+        {
+          "text": "tell me about section 43"
+        }
+      ]
+    },
+    {
+      "intent": "sec44",
+      "examples": [
+        {
+          "text": "44"
+        },
+        {
+          "text": "sec 44"
+        },
+        {
+          "text": "section 44"
+        },
+        {
+          "text": "tell me about section 44"
+        }
+      ]
+    },
+    {
+      "intent": "sec45",
+      "examples": [
+        {
+          "text": "45"
+        },
+        {
+          "text": "sec 45"
+        },
+        {
+          "text": "section 45"
+        },
+        {
+          "text": "tell me about section 45"
+        }
+      ]
+    },
+    {
+      "intent": "sec46",
+      "examples": [
+        {
+          "text": "46"
+        },
+        {
+          "text": "sec 46"
+        },
+        {
+          "text": "section 46"
+        },
+        {
+          "text": "tell me about section 46"
+        }
+      ]
+    },
+    {
+      "intent": "sec47",
+      "examples": [
+        {
+          "text": "47"
+        },
+        {
+          "text": "sec 47"
+        },
+        {
+          "text": "section 47"
+        },
+        {
+          "text": "tell me about section 47"
+        }
+      ]
+    },
+    {
+      "intent": "sec48",
+      "examples": [
+        {
+          "text": "48"
+        },
+        {
+          "text": "sec 48"
+        },
+        {
+          "text": "section 48"
+        },
+        {
+          "text": "tell me about section 48"
+        }
+      ]
+    },
+    {
+      "intent": "sec49",
+      "examples": [
+        {
+          "text": "49"
+        },
+        {
+          "text": "sec 49"
+        },
+        {
+          "text": "section 49"
+        },
+        {
+          "text": "tell me about section 49"
+        }
+      ]
+    },
+    {
+      "intent": "sec5",
+      "examples": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "sec 5"
+        },
+        {
+          "text": "section 5"
+        },
+        {
+          "text": "tell me about section 5"
+        }
+      ]
+    },
+    {
+      "intent": "sec50",
+      "examples": [
+        {
+          "text": "50"
+        },
+        {
+          "text": "sec 50"
+        },
+        {
+          "text": "section 50"
+        },
+        {
+          "text": "tell me about section 50"
+        }
+      ]
+    },
+    {
+      "intent": "sec51",
+      "examples": [
+        {
+          "text": "51"
+        },
+        {
+          "text": "sec 51"
+        },
+        {
+          "text": "section 51"
+        },
+        {
+          "text": "tell me about section 51"
+        }
+      ]
+    },
+    {
+      "intent": "sec52",
+      "examples": [
+        {
+          "text": "52"
+        },
+        {
+          "text": "sec 52"
+        },
+        {
+          "text": "section 52"
+        },
+        {
+          "text": "tell me about section 52"
+        }
+      ]
+    },
+    {
+      "intent": "sec53",
+      "examples": [
+        {
+          "text": "53"
+        },
+        {
+          "text": "sec53"
+        },
+        {
+          "text": "section 53"
+        },
+        {
+          "text": "tell me about section 53"
+        }
+      ]
+    },
+    {
+      "intent": "sec54",
+      "examples": [
+        {
+          "text": "54"
+        },
+        {
+          "text": "sec54"
+        },
+        {
+          "text": "section 54"
+        },
+        {
+          "text": "tell me about section 54"
+        }
+      ]
+    },
+    {
+      "intent": "sec55",
+      "examples": [
+        {
+          "text": "55"
+        },
+        {
+          "text": "sec 55"
+        },
+        {
+          "text": "section 55"
+        },
+        {
+          "text": "tell me about section 55"
+        }
+      ]
+    },
+    {
+      "intent": "sec56",
+      "examples": [
+        {
+          "text": "56"
+        },
+        {
+          "text": "sec 56"
+        },
+        {
+          "text": "section 56"
+        },
+        {
+          "text": "tell me about section 56"
+        }
+      ]
+    },
+    {
+      "intent": "sec57",
+      "examples": [
+        {
+          "text": "57"
+        },
+        {
+          "text": "sec 57"
+        },
+        {
+          "text": "section 57"
+        },
+        {
+          "text": "tell me about section 57"
+        }
+      ]
+    },
+    {
+      "intent": "sec58",
+      "examples": [
+        {
+          "text": "58"
+        },
+        {
+          "text": "sec 58"
+        },
+        {
+          "text": "section 58"
+        },
+        {
+          "text": "tell me about section 58"
+        }
+      ]
+    },
+    {
+      "intent": "sec59",
+      "examples": [
+        {
+          "text": "59"
+        },
+        {
+          "text": "sec 59"
+        },
+        {
+          "text": "section 59"
+        },
+        {
+          "text": "tell me about section 59"
+        }
+      ]
+    },
+    {
+      "intent": "sec6",
+      "examples": [
+        {
+          "text": "6"
+        },
+        {
+          "text": "sec 6"
+        },
+        {
+          "text": "section 6"
+        },
+        {
+          "text": "tell me about section 6"
+        }
+      ]
+    },
+    {
+      "intent": "sec60",
+      "examples": [
+        {
+          "text": "60"
+        },
+        {
+          "text": "sec 60"
+        },
+        {
+          "text": "section 60"
+        },
+        {
+          "text": "tell me about section 60"
+        }
+      ]
+    },
+    {
+      "intent": "sec61",
+      "examples": [
+        {
+          "text": "61"
+        },
+        {
+          "text": "sec 61"
+        },
+        {
+          "text": "section 61"
+        },
+        {
+          "text": "tell me about section 61"
+        }
+      ]
+    },
+    {
+      "intent": "sec62",
+      "examples": [
+        {
+          "text": "62"
+        },
+        {
+          "text": "sec 62"
+        },
+        {
+          "text": "section 62"
+        },
+        {
+          "text": "tell me about section 62"
+        }
+      ]
+    },
+    {
+      "intent": "sec63",
+      "examples": [
+        {
+          "text": "63"
+        },
+        {
+          "text": "sec 63"
+        },
+        {
+          "text": "section 63"
+        },
+        {
+          "text": "tell me about section 63"
+        }
+      ]
+    },
+    {
+      "intent": "sec64",
+      "examples": [
+        {
+          "text": "64"
+        },
+        {
+          "text": "sec 64"
+        },
+        {
+          "text": "section 64"
+        },
+        {
+          "text": "tell me about section 64"
+        }
+      ]
+    },
+    {
+      "intent": "sec65",
+      "examples": [
+        {
+          "text": "65"
+        },
+        {
+          "text": "sec 65"
+        },
+        {
+          "text": "section 65"
+        },
+        {
+          "text": "tell me about section 65"
+        }
+      ]
+    },
+    {
+      "intent": "sec66",
+      "examples": [
+        {
+          "text": "66"
+        },
+        {
+          "text": "sec 66"
+        },
+        {
+          "text": "section 66"
+        },
+        {
+          "text": "tell me about section 66"
+        }
+      ]
+    },
+    {
+      "intent": "sec67",
+      "examples": [
+        {
+          "text": "67"
+        },
+        {
+          "text": "sec 67"
+        },
+        {
+          "text": "section 67"
+        },
+        {
+          "text": "tell me about section 67"
+        }
+      ]
+    },
+    {
+      "intent": "sec68",
+      "examples": [
+        {
+          "text": "68"
+        },
+        {
+          "text": "sec 68"
+        },
+        {
+          "text": "section 68"
+        },
+        {
+          "text": "tell me about section 68"
+        }
+      ]
+    },
+    {
+      "intent": "sec69",
+      "examples": [
+        {
+          "text": "69"
+        },
+        {
+          "text": "sec 69"
+        },
+        {
+          "text": "section 69"
+        },
+        {
+          "text": "tell me about section 69"
+        }
+      ]
+    },
+    {
+      "intent": "sec7",
+      "examples": [
+        {
+          "text": "7"
+        },
+        {
+          "text": "sec 7"
+        },
+        {
+          "text": "section 7"
+        },
+        {
+          "text": "tell me about section 7"
+        }
+      ]
+    },
+    {
+      "intent": "sec70",
+      "examples": [
+        {
+          "text": "70"
+        },
+        {
+          "text": "sec70"
+        },
+        {
+          "text": "section 70"
+        },
+        {
+          "text": "tell me about section 70"
+        }
+      ]
+    },
+    {
+      "intent": "sec71",
+      "examples": [
+        {
+          "text": "71"
+        },
+        {
+          "text": "sec 71"
+        },
+        {
+          "text": "section 71"
+        },
+        {
+          "text": "tell me about section 71"
+        }
+      ]
+    },
+    {
+      "intent": "sec72",
+      "examples": [
+        {
+          "text": "72"
+        },
+        {
+          "text": "sec 72"
+        },
+        {
+          "text": "section 72"
+        },
+        {
+          "text": "tell me about section 72"
+        }
+      ]
+    },
+    {
+      "intent": "sec73",
+      "examples": [
+        {
+          "text": "73"
+        },
+        {
+          "text": "sec 73"
+        },
+        {
+          "text": "section 73"
+        },
+        {
+          "text": "tell me about section 73"
+        }
+      ]
+    },
+    {
+      "intent": "sec74",
+      "examples": [
+        {
+          "text": "74"
+        },
+        {
+          "text": "sec 74"
+        },
+        {
+          "text": "section 74"
+        },
+        {
+          "text": "tell me about section 74"
+        }
+      ]
+    },
+    {
+      "intent": "sec75",
+      "examples": [
+        {
+          "text": "75"
+        },
+        {
+          "text": "sec 75"
+        },
+        {
+          "text": "section 75"
+        },
+        {
+          "text": "tell me about section 75"
+        }
+      ]
+    },
+    {
+      "intent": "sec76",
+      "examples": [
+        {
+          "text": "76"
+        },
+        {
+          "text": "sec 76"
+        },
+        {
+          "text": "section 76"
+        },
+        {
+          "text": "tell me about section 76"
+        }
+      ]
+    },
+    {
+      "intent": "sec77",
+      "examples": [
+        {
+          "text": "77"
+        },
+        {
+          "text": "sec 77"
+        },
+        {
+          "text": "section 77"
+        },
+        {
+          "text": "tell me about section 77"
+        }
+      ]
+    },
+    {
+      "intent": "sec78",
+      "examples": [
+        {
+          "text": "78"
+        },
+        {
+          "text": "sec 78"
+        },
+        {
+          "text": "section 78"
+        },
+        {
+          "text": "tell me about section 78"
+        }
+      ]
+    },
+    {
+      "intent": "sec79",
+      "examples": [
+        {
+          "text": "79"
+        },
+        {
+          "text": "sec 79"
+        },
+        {
+          "text": "section 79"
+        },
+        {
+          "text": "tell me about section 79"
+        }
+      ]
+    },
+    {
+      "intent": "sec8",
+      "examples": [
+        {
+          "text": "8"
+        },
+        {
+          "text": "sec 8"
+        },
+        {
+          "text": "section 8"
+        },
+        {
+          "text": "tell me about section 8"
+        }
+      ]
+    },
+    {
+      "intent": "sec80",
+      "examples": [
+        {
+          "text": "80"
+        },
+        {
+          "text": "sec 80"
+        },
+        {
+          "text": "section 80"
+        },
+        {
+          "text": "tell me about section 80"
+        }
+      ]
+    },
+    {
+      "intent": "sec81",
+      "examples": [
+        {
+          "text": "81"
+        },
+        {
+          "text": "sec 81"
+        },
+        {
+          "text": "section 81"
+        },
+        {
+          "text": "tell me about section 81"
+        }
+      ]
+    },
+    {
+      "intent": "sec82",
+      "examples": [
+        {
+          "text": "82"
+        },
+        {
+          "text": "sec 82"
+        },
+        {
+          "text": "section 82"
+        },
+        {
+          "text": "tell me about section 82"
+        }
+      ]
+    },
+    {
+      "intent": "sec83",
+      "examples": [
+        {
+          "text": "83"
+        },
+        {
+          "text": "sec 83"
+        },
+        {
+          "text": "section 83"
+        },
+        {
+          "text": "tell me about section 83"
+        }
+      ]
+    },
+    {
+      "intent": "sec84",
+      "examples": [
+        {
+          "text": "84"
+        },
+        {
+          "text": "sec 84"
+        },
+        {
+          "text": "section 84"
+        },
+        {
+          "text": "tell me about section 84"
+        }
+      ]
+    },
+    {
+      "intent": "sec85",
+      "examples": [
+        {
+          "text": "85"
+        },
+        {
+          "text": "sec 85"
+        },
+        {
+          "text": "section 85"
+        },
+        {
+          "text": "tell me about section 85"
+        }
+      ]
+    },
+    {
+      "intent": "sec86",
+      "examples": [
+        {
+          "text": "86"
+        },
+        {
+          "text": "sec 86"
+        },
+        {
+          "text": "section 86"
+        },
+        {
+          "text": "tell me about section 86"
+        }
+      ]
+    },
+    {
+      "intent": "sec87",
+      "examples": [
+        {
+          "text": "87"
+        },
+        {
+          "text": "sec 87"
+        },
+        {
+          "text": "section 87"
+        },
+        {
+          "text": "tell me about section 87"
+        }
+      ]
+    },
+    {
+      "intent": "sec88",
+      "examples": [
+        {
+          "text": "88"
+        },
+        {
+          "text": "sec 88"
+        },
+        {
+          "text": "section 88"
+        },
+        {
+          "text": "tell me about section 88"
+        }
+      ]
+    },
+    {
+      "intent": "sec89",
+      "examples": [
+        {
+          "text": "89"
+        },
+        {
+          "text": "sec 89"
+        },
+        {
+          "text": "section 89"
+        },
+        {
+          "text": "tell me about section 89"
+        }
+      ]
+    },
+    {
+      "intent": "sec9",
+      "examples": [
+        {
+          "text": "9"
+        },
+        {
+          "text": "sec 9"
+        },
+        {
+          "text": "section 9"
+        },
+        {
+          "text": "tell me about section 9"
+        }
+      ]
+    },
+    {
+      "intent": "sec90",
+      "examples": [
+        {
+          "text": "90"
+        },
+        {
+          "text": "sec 90"
+        },
+        {
+          "text": "section 90"
+        },
+        {
+          "text": "tell me about section 90"
+        }
+      ]
+    },
+    {
+      "intent": "sec91",
+      "examples": [
+        {
+          "text": "91"
+        },
+        {
+          "text": "sec 91"
+        },
+        {
+          "text": "section 91"
+        },
+        {
+          "text": "tell me about section 91"
+        }
+      ]
+    },
+    {
+      "intent": "sec92",
+      "examples": [
+        {
+          "text": "92"
+        },
+        {
+          "text": "sec 92"
+        },
+        {
+          "text": "section 92"
+        },
+        {
+          "text": "tell me about section 92"
+        }
+      ]
+    },
+    {
+      "intent": "sec93",
+      "examples": [
+        {
+          "text": "93"
+        },
+        {
+          "text": "sec 93"
+        },
+        {
+          "text": "section 93"
+        },
+        {
+          "text": "tell me about section 93"
+        }
+      ]
+    },
+    {
+      "intent": "sec94",
+      "examples": [
+        {
+          "text": "94"
+        },
+        {
+          "text": "sec 94"
+        },
+        {
+          "text": "section 94"
+        },
+        {
+          "text": "tell me about section 94"
+        }
+      ]
+    },
+    {
+      "intent": "Thankyou",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "Its a nice experience"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you for your valuable information"
+        }
+      ]
+    },
+    {
+      "intent": "welcome",
+      "examples": [
+        {
+          "text": "Can I get some information?"
+        },
+        {
+          "text": "Can you fetch me details?"
+        },
+        {
+          "text": "Can you help me"
+        },
+        {
+          "text": "Can you help me?"
+        },
+        {
+          "text": "Can you help me resolve my doubt"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "I have a doubt"
+        },
+        {
+          "text": "I need an information"
+        },
+        {
+          "text": "I need some information"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "1",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "one",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your welcome"
+              },
+              {
+                "text": "It's my pleasure!"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thankyou",
+      "dialog_node": "Anything else",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-2. Definitions \n \n (1) In this Act, unless the context otherwise requires, — \n(a) \"access\" with its grammatical variations and cognate expressions means gaining \nentry into, instructing or communicating with the logical, arithmetical, or memory function \nresources of a computer, computer system or computer network; \n(b) \"addressee\" means a person who is intended by the originator to receive the \nelectronic record but does not include any intermediary; \n(c) \"adjudicating officer\" means an adjudicating officer appointed under subsection (1) \nof section 46; \n(d) \"affixing digital signature\" with its grammatical variations and cognate expressions \nmeans adoption of any methodology or procedure by a person for the purpose of authenticating \nan electronic record by means of digital signature; \n(e) \"appropriate Government\" means as respects any matter,— \n(i) Enumerated in List II of the Seventh Schedule to the Constitution; \n (ii) relating to any State law enacted under List III of the Seventh Schedule to the \n Constitution, \nthe State Government and in any other case, the Central Government; \n (f) \"asymmetric crypto system\" means a system of a secure key pair consisting of a \nprivate key for creating a digital signature and a public key to verify the digital signature; \n (g) \"Certifying Authority\" means a person who has been granted a licence to issue a \nDigital Signature Certificate under section 24; \n (h) \"certification practice statement\" means a statement issued by a Certifying Authority \nto specify the practices that the Certifying Authority employs in issuing Digital Signature \nCertificates; (j) \"computer network\" means the interconnection of one or more computers through— \n(i) the use of satellite, microwave, terrestrial line or other communication media; and \n(ii) terminals or a complex consisting of two or more interconnected computers whether \nor not the interconnection is continuously maintained; \n (k) \"computer resource\" means computer, computer system, computer network, \ndata,computer data base or software; \n (l) \"computer system\" means a device or collection of devices, including input and output \nsupport devices and excluding calculators which are not programmable and capable of being \nused in conjunction with external files, which contain computer programmes, electronic \ninstructions, input data and output data, that performs logic, arithmetic, data storage and \nretrieval, communication control and other functions; \n (m) \"Controller\" means the Controller of Certifying Authorities appointed under sub-section \n(l) of section 17; \n (n) \"Cyber Appellate Tribunal\" means the Cyber Regulations Appellate Tribunal established \nunder sub-section (1) of section 48; \n (o) \"data\" means a representation of information, knowledge, facts, concepts or instructions \nwhich are being prepared or have been prepared in a formalised manner, and is intended to be \nprocessed, is being processed or has been processed in a computer system or computer \nnetwork, and may be in any form (including computer printouts magnetic or optical storage \nmedia, punched cards, punched tapes) or stored internally in the memory of the computer; \n (p) \"digital signature\" means authentication of any electronic record by a subscriber by \nmeans of an electronic method or procedure in accordance with the provisions of section 3; \n (q) \"Digital Signature Certificate\" means a Digital Signature Certificate issued under sub\u0002section (4) of section 35; \n (i) \"computer\" means any electronic magnetic, optical or other high-speed data \nprocessing device or system which performs logical, arithmetic, and memory functions by \nmanipulations of electronic, magnetic or optical impulses, and includes all input, output, \nprocessing, storage, computer software, or communication facilities which are connected or \nrelated to the computer in a computer system or computer network;"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec2",
+      "dialog_node": "node_10_1625159903538",
+      "previous_sibling": "node_7_1625159889081"
+    },
+    {
+      "type": "standard",
+      "title": "8",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-8. Publication of rule, regulation, etc., in Electronic Gazette. \nWhere any law provides that any rule, regulation, order, bye-law, notification or \nany other matter shall be published in the Official Gazette, then, such requirement shall \nbe deemed to have been satisfied if such rule, regulation, order, bye-law, notification or \nany other matter is published in the Official Gazette or Electronic Gazette:\nProvided that where any rule, regulation, order, bye-law, notification or any other \nmatter is published in the Official Gazette or Electronic Gazette, the date of publication \nshall be deemed to be the date of the Gazette which was first published in any form."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec8",
+      "dialog_node": "node_10_1625164952881",
+      "previous_sibling": "node_3_1625164951309"
+    },
+    {
+      "type": "standard",
+      "title": "14",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-14. Secure electronic record. \nWhere any security procedure has been applied to an electronic record at a specific \npoint of time. then such record shall be deemed to be a secure electronic record from such \npoint of time to the time of verification."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec14",
+      "dialog_node": "node_10_1625244748822",
+      "previous_sibling": "node_6_1625244746945"
+    },
+    {
+      "type": "standard",
+      "title": "27",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-27. Power to delegate. \nThe Controller may, in writing, authorise the Deputy Controller, Assistant Controller or any \nofficer to exercise any of the powers of the Controller under this Chapter."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec27",
+      "dialog_node": "node_10_1625245318560",
+      "previous_sibling": "node_11_1625245320257"
+    },
+    {
+      "type": "standard",
+      "title": "32",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-32. Display of licence. \n Every Certifying Authority shall display its licence at a conspicuous place of the premises in \nwhich it carries on its business. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec32",
+      "dialog_node": "node_10_1625246515806",
+      "previous_sibling": "node_6_1625245310012"
+    },
+    {
+      "type": "standard",
+      "title": "81",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-81. Act to have overriding effect. \nThe provisions of this Act shall have effect notwithstanding anything inconsistent \ntherewith contained in any other law for the time being in force."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec81",
+      "dialog_node": "node_10_1625331540560",
+      "previous_sibling": "node_11_1625331543142"
+    },
+    {
+      "type": "standard",
+      "title": "26",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-26. Notice of suspension or revocation of licence. \n (1) Where the licence of the Certifying Authority is suspended or revoked, the Controller \nshall publish notice of such suspension or revocation, as the case may be, in the database maintained \nby him. \n (2) Where one or more repositories are specified, the Controller shall publish notices of such \nsuspension or revocation, as the case may be, in all such repositories: \nProvided that the data base containing the notice of such suspension or revocation, as the case \nmay be, shall be made available through a web site which shall be accessible round the clock: \nProvided further that the Controller may, if he considers necessary, publicise the contents of \ndatabase in such electronic or other media, as he may consider appropriate. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec26",
+      "dialog_node": "node_11_1625245320257",
+      "previous_sibling": "node_12_1625245322151"
+    },
+    {
+      "type": "standard",
+      "title": "80",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-80. Power of police officer and other officers to enter, search, etc. \n(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, any \npolice officer, not below the rank of a Deputy Superintendent of Police, or any other officer \nof the Central Government or a State Government authorised by the Central Government in \nthis behalf may enter any public place and search and arrest without warrant any person \nfound therein who is reasonably suspected or having committed or of committing or of \nbeing about to commit any offence under this Act\nExplanation.—For the purposes of this sub-section, the expression \"public place\" \nincludes any public conveyance, any hotel, any shop or any other place intended for use by, \nor accessible to the public.\n (2) Where any person is arrested under sub-section (1) by an officer other than a \npolice officer, such officer shall, without unnecessary delay, take or send the person \narrested before a magistrate having jurisdiction in the case or before the officer-in-charge \nof a police station.\n (3) The provisions of the Code of Criminal Procedure, 1973 shall, subject to the \nprovisions of this section, apply, so far as may be, in relation to any entry, search or arrest, \nmade under this section."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec80",
+      "dialog_node": "node_11_1625331543142",
+      "previous_sibling": "node_12_1625331545904"
+    },
+    {
+      "type": "standard",
+      "title": "3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Setcion-3. Authentication of electronic records. \n (1) Subject to the provisions of this section any subscriber may authenticate an \nelectronic record by affixing his digital signature. \n(2) The authentication of the electronic record shall be effected by the use of \nasymmetric crypto system and hash function which envelop and transform the initial \nelectronic record into another electronic record.\nExplanation.—For the purposes of this sub-section, \"hash function\" means an \nalgorithm mapping or translation of one sequence of bits into another, generally smaller,set known'as \"hash result\" such that an electronic record yields the same hash result every \ntime the algorithm is executed with the same electronic record as its input making it \ncomputationally infeasible—\n(a) to derive or reconstruct the original electronic record from the hash result \nproduced by the algorithm;\n(b) that two electronic records can produce the same hash result using the\nalgorithm.\n(3) Any person by the use of a public key of the subscriber can verify the electronic \nrecord.\n(4) The private key and the public key are unique to the subscriber and constitute a \nfunctioning key pair."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec3",
+      "dialog_node": "node_1_1625159903761",
+      "previous_sibling": "node_10_1625159903538"
+    },
+    {
+      "type": "standard",
+      "title": "9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-9. Sections 6,7 and 8 not to confer right to insist document should be accepted \nin electronic form. \nNothing contained in sections 6, 7 and 8 shall confer a right upon any person to \ninsist that any Ministry or Department of the Central Government or the State \nGovernment or any authority or body established by or under any law or controlled or \nfunded by the Central or State Government should accept, issue, create, retain and \npreserve any document in the form of electronic records or effect any monetary \ntransaction in the electronic form"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec9",
+      "dialog_node": "node_1_1625164952146",
+      "previous_sibling": "node_10_1625164952881"
+    },
+    {
+      "type": "standard",
+      "title": "10",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-10. Power to make rules by Central Government in respect of digital signature. \nThe Central Government may, for the purposes of this Act, by rules, prescribe—\n(a) the type of digital signature;\n(b) the manner and format in which the digital signature shall be affixed;\n(c) the manner or procedure which facilitates identification of the person \naffixing the digital signature;\n(d) control processes and procedures to ensure adequate integrity, security and \nconfidentiality of electronic records or payments; and\n(e) any other matter which is necessary to give legal effect to digital signatures. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec10",
+      "dialog_node": "node_1_1625164953230",
+      "previous_sibling": "node_1_1625164952146"
+    },
+    {
+      "type": "standard",
+      "title": "20",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-20. Controller to act as repository. \n (1) The Controller shall be the repository of all Digital Signature Certificates issued under \nthis Act. \n (2) The Controller shall—\n(a) make use of hardware, software and procedures that are secure .iJm \nintrusion and misuse;\n(b) observe such other standards as may be prescribed by the Central \nGovernment,\nto ensure that the secrecy and security of the digital signatures are assured.\n (3) The Controller shall maintain a computerised data base of all public keys in such a \nmanner that such data base and the public keys are available to any member of the public. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec20",
+      "dialog_node": "node_1_1625244996717",
+      "previous_sibling": "node_2_1625245001662"
+    },
+    {
+      "type": "standard",
+      "title": "75",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-75. Act to apply for offence or contravention commited outside India. \n(1) Subject to the provisions of sub-section (2), the provisions of this Act shall apply also to \nany offence or contravention committed outside India by any person irrespective of his nationality. \n (2) For the purposes of sub-section (1), this Act shall apply to an offence or contravention \ncommitted outside India by any person if the act or conduct constituting the offence or contravention \ninvolves a computer, computer system or computer network located in India. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec75",
+      "dialog_node": "node_1_1625331177783",
+      "previous_sibling": "node_2_1625331181247"
+    },
+    {
+      "type": "standard",
+      "title": "25",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-25. Suspension of licence. \n(1) The Controller may, if he is satisfied after making such inquiry, as he may think fit, \nthat a Certifying Authority has,—\n(a) made a statement in, or in relation to, the application for the issue or \nrenewal of the licence, which is incorrect or false in material particulars;\n(b) failed to comply with the terms and conditions subject to which the licence \nwas granted;\n(c) failed to maintain the standards specified under clause (b) of sub-section \n(2) of section 20;\n(d) contravened any provisions of this Act, rule, regulation or order made \nthereunder,\nrevoke the licence:\nProvided that no licence shall be revoked unless the Certifying Authority has been given a \nreasonable opportunity of showing cause against the proposed revocation.\n(2) The Controller may, if he has reasonable cause to believe that there is any \nground for revoking a licence under sub-section (1), by order suspend such licence \npending the completion of any inquiry ordered by him:\nProvided that no licence shall be suspended for a period exceeding ten days unless \nthe Certifying Authority has been given a reasonable opportunity of showing cause against \nthe proposed suspension\n(3) No Certifying Authority whose licence has been suspended shall issue any Digital Signature \nCertificate during such suspension. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec25",
+      "dialog_node": "node_12_1625245322151",
+      "previous_sibling": "node_13_1625245324183"
+    },
+    {
+      "type": "standard",
+      "title": "79",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-79. Network service providers not to be liable in certain cases. \n For the removal of doubts, it is hereby declared that no person providing any service as a \nnetwork service provider shall be liable under this Act, rules or regulations made thereunder for any \nthird party information or data made available by him if he proves that the offence or contravention \nwas committed without his knowledge or that he had exercised all due diligence to prevent the \ncommission of such offence or contravention. \nExplanation.—For the purposes of this section, — \n(a) \"network service provider\" means an intermediary; \n(b) \"third party information\" means any information dealt with by a network service \nprovider in his capacity as an intermediary;"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec79",
+      "dialog_node": "node_12_1625331545904",
+      "previous_sibling": "node_13_1625331548507"
+    },
+    {
+      "type": "standard",
+      "title": "24",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-24. Procedure for grant or rejection of licence. \nThe Controller may, on receipt of an application under sub-section (1) of section 21, \nafter considering the documents accompanying the application and such other factors, as \nhe deems fit, grant the licence or reject the application:\nProvided that no application shall be rejected under this section unless the applicant has \nbeen given a reasonable opportunity of presenting his case"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec24",
+      "dialog_node": "node_13_1625245324183",
+      "previous_sibling": "node_14_1625245326355"
+    },
+    {
+      "type": "standard",
+      "title": "78",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-78. Power to investigate offences. \n Notwithstanding anything contained in the Code of Criminal Procedure, 1973, a police officer \nnot below the rank of Deputy Superintendent of Police shall investigate any offence under this Act. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec78",
+      "dialog_node": "node_13_1625331548507",
+      "previous_sibling": "node_14_1625331551325"
+    },
+    {
+      "type": "standard",
+      "title": "23",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-23. Renewal of licence. \n An application for renewal of a licence shall be— \n (a) in such form;\n (b) accompanied by such fees, not exceeding five thousand rupees,\nas may be prescribed by the Central Government and shall be made not less than forty-five \ndays before the date of expiry of the period of validity of the licence."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec23",
+      "dialog_node": "node_14_1625245326355",
+      "previous_sibling": "node_15_1625245329137"
+    },
+    {
+      "type": "standard",
+      "title": "77",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-77. Penalties or confiscation not to interfere with other punishments. \n No penalty imposed or confiscation made under this Act shall prevent the imposition of any \nother punishment to which the person affected thereby is liable under any other law for the time being \nin force."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec77",
+      "dialog_node": "node_14_1625331551325",
+      "previous_sibling": "node_15_1625331554264"
+    },
+    {
+      "type": "standard",
+      "title": "22",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-22. Application for licence. \n(1) Every application for issue of a licence shall be in such form as may be prescribed by \nthe Central Government.\n (2) Every application for issue of a licence shall be accompanied by—\n(a) a certification practice statement;\n(b) a statement including the procedures with respect to identification of the \napplicant;\n(c) payment of such fees, not exceeding twenty-five thousand rupees as may \nbe prescribed by the Central Government;\n (d) such other documents, as may be prescribed by the Central Government."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec22",
+      "dialog_node": "node_15_1625245329137",
+      "previous_sibling": "node_8_1625245282245"
+    },
+    {
+      "type": "standard",
+      "title": "76",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-76. Confiscation. \n Any computer, computer system, floppies, compact disks, tape drives or any other accessories \nrelated thereto, in respect of which any provision of this Act. rules, orders or regulations made \nthereunder has been or is being contravened, shall be liable to confiscation: \nProvided that where it is established to the satisfaction of the court adjudicating the confiscation \nthat the person in whose possession, power or control of any such computer, computer system, \nfloppies, compact disks, tape drives or any other accessories relating thereto is found is not \nresponsible for the contravention of the provisions of this Act, rules, orders or regulations made \nthereunder, the court may, instead of making an order for confiscation of such computer, computer \nsystem, floppies, compact disks, tape drives or any other accessories related thereto, make such other \norder authorised by this Act against the person contravening of the provisions of this Act, rules, orders \nor regulations made thereunder as it may think fit. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec76",
+      "dialog_node": "node_15_1625331554264",
+      "previous_sibling": "node_1_1625331177783"
+    },
+    {
+      "type": "standard",
+      "title": "36",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-36. Representations upon issuance of Digital Signature Certificate. \n A Certifying Authority while issuing a Digital Signature Certificate shall certify that-- \n(a) it has complied with the provisions of this Act and the rules and regulations \nmade thereunder, \n(b) it has published the Digital Signature Certificate or otherwise made it available \nto such person relying on it and the subscriber has accepted it;\n(c) the subscriber holds the private key corresponding to the public key, listed in the \nDigital Signature Certificate;\n (d) the subscriber's public key and private key constitute a functioning key pair, \n(e) the information contained in the Digital Signature Certificate is accurate;\nand\n(f) it has no knowledge of any material fact, which if it had been included in the \nDigital Signature Certificate would adversely affect the reliability of the \nrepresentations made in clauses (a) to (d)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec36",
+      "dialog_node": "node_16_1625246590006",
+      "previous_sibling": "node_17_1625246593223"
+    },
+    {
+      "type": "standard",
+      "title": "88",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-88. Constitution of Advisory Committee. \n (1) The Central Government shall, as soon as may be after the commencement of this Act, constitute \na Committee called the Cyber Regulations Advisory Committee. \n(2) The Cyber Regulations Advisory Committee shall consist of a Chairperson and such number of \nother official and non-official members representing the interests principally affected or having \nspecial knowledge of the subject-matter as the Central Government may deem fit. \n (3)The Cyber Regulations Advisory Committee shall advise— \n(a) the Central Government either generally as regards any rules or for any other \npurpose connected with this Act; \n(b) the Controller in framing the regulations under this Act. \n(4) There shall be paid to the non-official members of such Committee such travelling and other \nallowances as the Central Government may fix."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec88",
+      "dialog_node": "node_16_1625331810166",
+      "previous_sibling": "node_17_1625331813454"
+    },
+    {
+      "type": "standard",
+      "title": "35",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-35. Certifying Authority to issue Digital Signature Certificate. \n (1) Any person may make an application to the Certifying Authority for the issue of a \nDigital Signature Certificate in such form as may be prescribed by the Central Government\n (2) Every such application shall be accompanied by such fee not exceeding twenty\u0002five thousand rupees as may be prescribed by the Central Government, to be paid to the \nCertifying Authority:\nProvided that while prescribing fees under sub-section (2) different fees may be \nprescribed for different classes of applicants'.\n (3) Every such application shall be accompanied by a certification practice statement \nor where there is no such statement, a statement containing such particulars, as may be \nspecified by regulations.\n (4) On receipt of an application under sub-section (1), the Certifying Authority may, \nafter consideration of the certification practice statement or the other statement under sub\u0002section (3) and after making such enquiries as it may deem fit, grant the Digital Signature \nCertificate or for reasons to be recorded in writing, reject the application:\nProvided that no Digital Signature Certificate shall be granted unless the Certifying \nAuthority is satisfied that—\n(a) the applicant holds the private key corresponding to the public key to be \nlisted in the Digital Signature Certificate;\n(b) the applicant holds a private key, which is capable of creating a digital \nsignature;\n(c) the public key to be listed in the certificate can be used to verify a digital \nsignature affixed by the private key held by the applicant:\nProvided further that no application shall be rejected unless the applicant has \nbeen given a reasonable opportunity of showing cause against the proposed \nrejection"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec35",
+      "dialog_node": "node_17_1625246593223",
+      "previous_sibling": "node_18_1625246596046"
+    },
+    {
+      "type": "standard",
+      "title": "87",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-87. Power of Central Government to make rules. \n (1) The Central Government may, by notification in the Official Gazette and in the \nElectronic Gazette make rules to carry out the provisions of this Act\n (2) In particular, and without prejudice to the generality of the foregoing power, such \nrules may provide for all or any of the following mailers, namely:—\n(a) the manner in which any information or matter may be authenticated by \nmeans of digital signature under section 5;\n(b) the electronic form in which filing, issue, grant or payment shall be effected \nunder sub-section (1) of section 6;\n (c) the manner and format in which electronic records shall be filed, or issued \nand the method of .payment under sub-section (2) of section 6;\n (d) the matters relating to the type of digital signature, manner and format in \nwhich it may be affixed undersection 10;\n (e) the security procedure for the purpose of creating secure electronic record \nand secure digital signature under section 16;\n (f) the qualifications, experience and terms and conditions of service of \nController, Deputy Controllers and Assistant Controllers under section 17;\n (g) other standards to be observed by the Controller under clause (b) of sub\u0002section (2) of section 20;\n (h) the requirements which an applicant must fulfil under sub-section (2) of \nsection 21;\n (i) the period of validity of licence granted under clause (a) of sub-section (3)\nof section 21;\n (j) the form in which an application for licence may be made under sub-section \n(1) of section 22;\n (k) the amount of fees payable under clause (c) of sub-section (2) of section 22;\n (l) such other documents which shall accompany an application for licence \nunder clause (a) of sub-section (2) of section 22;\n (m) the form and the fee for renewal of a licence and the fee payable there of \nunder section 23;\n (n) the form in which application for issue of a Digital Signature Certificate \nmay be made under sub-section (1) of section 35;\n (o) the fee to be paid to the CertifyingAuthority for issue of a Digital Signature \nCertificate under sub-section (2) of section 35; (p) the manner in which the adjudicating officer shall hold inquiry under subsection (1) \nof section 46; \n (q) the qualification and experience which the adjudicating officer shall possess under \nsub-section (3) of section 46; \n (r) the salary, allowances and the other terms and conditions of service of the Presiding \nOfficer under section 52; \n (s) the procedure for investigation of misbehaviour or incapacity of the Presiding Officer \nunder sub-section (3) of section 54; \n (t) the salary and allowances and other conditions of service of other officers and \nemployees under sub-section (3} of section 56; \n (u) the form in which appeal may be filed and the fee thereof under sub -section (3) of \nsection 57; \n (v) any other power of a civil court required to be prescribed under clause (g) of sub\u0002section (2) of section 58; and \n (w) any other matter which is required to be, or may be, prescribed. \n(3) Every notification made by the Central Government under clause (f) of subsection (4) of \nsection 1 and every rule made by it shall be laid, as soon as may be after it is made, before each House \nof Parliament, while it is in session, for a total period of thirty days which may be comprised in one \nsession or in two or more successive sessions, and if, before the expiry of the session immediately \nfollowing the session or the successive sessions aforesaid, both Houses agree in making any \nmodification in the notification or the rule or both Houses agree that the notification or the rule should \nnot be made, the notification or the rule shall thereafter have effect only in such modified form or be \nof no effect, as the case may be; so, however, that any such modification or annulment shall be \nwithout prejudice to the validity of anything previously done under that notification or rule. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec87",
+      "dialog_node": "node_17_1625331813454",
+      "previous_sibling": "node_18_1625331815810"
+    },
+    {
+      "type": "standard",
+      "title": "34",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-34. Disclosure. \n(1) Every Certifying Authority shall disclose in the manner specified by regulations—\n(a) its Digital Signature Certificate which contains the public key \ncorresponding to the private key used by that Certifying Authority to digitally sign \nanother Digital Signature Certificate;\n(b) any certification practice statement relevant thereto;\n (c) notice of the revocation or suspension of its Certifying Authority \ncertificate, if any; and\n (d) any other fact that materially and adversely affects either the reliability of \na Digital Signature Certificate, which that Authority has issued, or the Authority's \nability to perform its services.\n(2) Where in the opinion of the Certifying Authority any event has occurred or any \nsituation has arisen which may materially and adversely affect the integrity of its \ncomputer system or the conditions subject to which a Digital Signature Certificate was \ngranted, then, the Certifying Authority shall—\n(a) use reasonable efforts to notify any person who is likely to be affected by \nthat occurrence; or\n(b) act in accordance with the procedure specified in its certification practice \nstatement to deal with such event or situation."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec34",
+      "dialog_node": "node_18_1625246596046",
+      "previous_sibling": "node_19_1625246599174"
+    },
+    {
+      "type": "standard",
+      "title": "86",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-86. Removal of difficulties. \n(1) If any difficulty arises in giving effect to the provisions of this Act, the Central \nGovernment may, by order published in the Official Gazette, make such provisions not \ninconsistent with the provisions of this Act as appear to it to be necessary or expedient for \nremoving the difficulty:\nProvided that no order shall be made under this section after the expiry of a period of two \nyears from the commencement of this Act\n (2) Every order made under this section shall be laid, as soon as may be after it is \nmade, before each House of Parliament."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec86",
+      "dialog_node": "node_18_1625331815810",
+      "previous_sibling": "node_19_1625331818371"
+    },
+    {
+      "type": "standard",
+      "title": "33",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-33. Surrender of licence. \n (1) Every Certifying Authority whose licence is suspended or revoked shall immediately after \nsuch suspension or revocation, surrender the licence to the Controller. \n(2) Where any Certifying Authority fails to surrender a licence under sub-section (1), the \nperson in whose favour a licence is issued, shall be guilty of an offence and shall be punished with \nimprisonment which may extend up to six months or a fine which may extend up to ten thousand \nrupees or with both."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec33",
+      "dialog_node": "node_19_1625246599174",
+      "previous_sibling": "node_10_1625246515806"
+    },
+    {
+      "type": "standard",
+      "title": "85",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-85. Offences by companies. \n(1) Where a person committing a contravention of any of the provisions of this Act \nor of any rule, direction or order made thereunder is a company, every person who, at the \ntime the contravention was committed, was in charge of, and was responsible to, the \ncompany for the conduct of business of the company as well as the company, shall be \nguilty of the contravention and shall be liable to be proceeded against and punished \naccordingly:\nProvided that nothing contained in this sub-section shall render any such person \nliable to punishment if he proves that the contravention took place without his knowledge \nor that he exercised all due diligence to prevent such contravention.\n(2) Notwithstanding anything contained in sub-section (1), where a contravention of \nany of the provisions of this Act or of any rule, direction or order made thereunder has \nbeen committed by a company and it is proved that the contravention has taken place with \nthe consent or connivance of, or is attributable to any neglect on the part of, any director, \nmanager, secretary or other officer of the company, such director, manager, secretaryor other officer shall also be deemed to be guilty of the contravention and shall be liable to \nbe proceeded against and punished accordingly.\nExplanation.—For the purposes of this section,—\n(i) \"company\" means any body corporate and includes a firm or other association of \nindividuals; and\n (ii) \"director\", in relation to a firm, means a partner in the firm."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec85",
+      "dialog_node": "node_19_1625331818371",
+      "previous_sibling": "node_20_1625331821039"
+    },
+    {
+      "type": "standard",
+      "title": "43",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-43. Penalty for damage to computer, computer system, etc. \nIf any person without permission of the owner or any other person who is incharge of a \ncomputer, computer system or computer network, — \n(a) accesses or secures access to such computer, computer system or computer network; \n(b) downloads, copies or extracts any data, computer data base or information \nfrom such computer, computer system or computer network including information or \ndata held or stored in any removable storage medium;\n(c) i ntroduces or causes to be introduced any computer contaminant or \ncomputer virus into any computer, computer system or computer network;\n(d) damages or causes to be damaged any computer, computer system or \ncomputer network, data, computer data base or any other programmes residing in \nsuch computer, computer system or computer network;\n(e) disrupts or causes disruption of any computer, computer system or \ncomputer network;\n (f) denies or causes the denial of access to any person authorised to access any \ncomputer, computer system or computer network by any means;\n (g) provides any assistance to any person to facilitate access to a computer, \ncomputer system or computer network in contravention of the provisions of this Act, \nrules or regulations made thereunder;\n (h) charges the services availed of by a person to the account of another person \nby tampering with or manipulating any computer, computer system, or computer \nnetwork,\nhe shall be liable to pay damages by way of compensation not exceeding one crore rupees \nto the person so affected.\nExplanation.—For the purposes of this section,—\n (i) \"computer contaminant\" means any set of computer instructions that are \ndesigned—\n(a) to modify, destroy, record, transmit data or programme residing \nwithin a computer, computer system or computer network; or\n(b) by any means to usurp the normal operation of the computer, \ncomputer system, or computer network;\n (ii) \"computer data base\" means a representation of information, knowledge, facts, \nconcepts or instructions in text, image, audio, video that are being prepared or have \nbeen prepared in a formalised manner or have been produced by a computer, \ncomputer system or computer network and are intended for use in a computer, \ncomputer system or computer network;\n (iii) \"computer virus\" means any computer instruction, information, data or \nprogramme that destroys, damages, degrades or adversely affects the performance of \na computer resource or attaches itself to another computer resource and operates \nwhen a programme, daia or instruction is executed or some other event takes place in \nthat computer resource;\n (iv) \"damage\" means to destroy, alter, delete, add, modify or rearrange any computer \nresource by any means."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec43",
+      "dialog_node": "node_20_1625246977601",
+      "previous_sibling": "node_21_1625246980449"
+    },
+    {
+      "type": "standard",
+      "title": "84",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-84. Protection of action taken in good faith. \n No suit, prosecution or other legal proceeding shall lie against the Central \nGovernment, the State Government, the Controller or any person acting on behalf of him, \nthe Presiding Officer, adjudicating officers and the staff of the Cyber Appellate Tribunal \nfor anything which is in good faith done or intended to be done in pursuance of this Act or \nany rule, regulation or order made thereunder."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec84",
+      "dialog_node": "node_20_1625331821039",
+      "previous_sibling": "node_21_1625331823422"
+    },
+    {
+      "type": "standard",
+      "title": "42",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-42. Control of private key. \n(1) Every subscriber shall exercise reasonable care to retain control of the private key \ncorresponding to the public key listed in his Digital Signature Certificate and take all steps to prevent \nits disclosure to a person not authorised to affix the digital signature of the subscriber. \n(2) If the private key corresponding to the public key listed in the Digital Signature Certificate \nhas been compromised, then, the subscriber shall communicate the same without any delay to the \nCertifying Authority in such manner as may be specified by .the regulations. \nExplanation.— For the removal of doubts, it is hereby declared that the subscriber shall be \nliable till he has informed the Certifying Authority that the private key has been compromised. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec42",
+      "dialog_node": "node_21_1625246980449",
+      "previous_sibling": "node_22_1625246983349"
+    },
+    {
+      "type": "standard",
+      "title": "83",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-83. Power to give directions. \n The Central Government may give directions to any State Government as to the \ncarrying into execution in the State of any of the provisions of this Act or of any rule, \nregulation or order made thereunder."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec83",
+      "dialog_node": "node_21_1625331823422",
+      "previous_sibling": "node_9_1625331536840"
+    },
+    {
+      "type": "standard",
+      "title": "5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-5. Legal recognition of digital signatures. \nWhere any law provides that information or any other matter shall be authenticated \nby affixing the signature or any document shall be signed or bear the signature of any \nperson (hen, notwithstanding anything contained in such law, such requirement shall be \ndeemed to have been satisfied, if such information or matter is authenticated by means of \ndigital signature affixed in such manner as may be prescribed by the Central Government.\nExplanation.—For the purposes of this section, \"signed\", with its grammatical \nvariations and cognate expressions, shall, with reference to a person, mean affixing of his \nhand written signature or any mark on any document and the expression \"signature\" shall \nbe construed accordingly."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec5",
+      "dialog_node": "node_2_1625164949378",
+      "previous_sibling": "node_8_1625159903991"
+    },
+    {
+      "type": "standard",
+      "title": "15",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-15. Secure digital signature. \n If, by application of a security procedure agreed to by the parties concerned, it can \nbe verified that a digital signature, at the time it was affixed, was— \n(a) unique to the subscriber affixing it;\n(b) capable of identifying such subscriber;\n(c) created in a manner or using a means under the exclusive control of the \nsubscriber and is linked to the electronic record to which it relates in such a manner \nthat if the electronic record was altered the digital signature would be invalidated,\nthen such digital signature shall be deemed to be a secure digital signature."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec15",
+      "dialog_node": "node_2_1625244751933",
+      "previous_sibling": "node_10_1625244748822"
+    },
+    {
+      "type": "standard",
+      "title": "19",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-19. Recognition of foreign Certifying Authorities. \n(1) Subject to such conditions and restrictions as may be specified by regulations, the \nController may with the previous approval of the Central Government, and by notification in \nthe Official Gazette, recognise any foreign Certifying Authority as a Certifying Authority for \nthe purposes of this Act.\n (2) Where any Certifying Authority is recognised under sub-section (1), the Digital \nSignature Certificate issued by such Certifying Authority shall be valid for the purposes of \nthis Act.\n (3) The Controller may, if he is satisfied that any Certifying Authority has contravened \nany of the conditions and restrictions subject to which it was granted recognition under sub\u0002section (1) he may, for reasons to be recorded in writing, by notification in the Official \nGazette, revoke such recognition. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec19",
+      "dialog_node": "node_2_1625245001662",
+      "previous_sibling": "node_3_1625245004477"
+    },
+    {
+      "type": "standard",
+      "title": "74",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-74. Publication for fraudulent purpose. \n Whoever knowingly creates, publishes or otherwise makes available a Digital Signature \nCertificate for any fraudulent or unlawful purpose shall be punished with imprisonment for a term \nwhich may extend to two years, or with fine which may extend to one lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec74",
+      "dialog_node": "node_2_1625331181247",
+      "previous_sibling": "node_3_1625331184288"
+    },
+    {
+      "type": "standard",
+      "title": "41",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-41. Acceptance of Digital Signature Certificate. \n(1) A subscriber shall be deemed to have accepted a Digital Signature Certificate if he \npublishes or authorises the publication of a Digital Signature Certificate— \n(a) to one or more persons; \n(b) in a repository, or otherwise demonstrates his approval of the Digital Signature \nCertificate in any manner. \n (2) By accepting a Digital Signature Certificate the subscriber certifies to all who reasonably \nrely on the information contained in the Digital Signature Certificate that— \n(a) the subscriber holds the private key corresponding to the public key listed in the \nDigital Signature Certificate and is entitled to hold the same; \n(b) all representations made by the subscriber to the Certifying Authority and all \nmaterial relevant to the information contained in the Digital Signature Certificate are true; \n(c) all information in the Digital Signature Certificate that is within the knowledge of \nthe subscriber is true. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec41",
+      "dialog_node": "node_22_1625246983349",
+      "previous_sibling": "node_23_1625246986225"
+    },
+    {
+      "type": "standard",
+      "title": "93",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-93. Amendment of Act 18 of 1891. \n The Bankers' Books Evidence Act, 1891 shall be amended in the manner specified in the Third \nSchedule to this Act. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec93",
+      "dialog_node": "node_22_1625332134431",
+      "previous_sibling": "node_23_1625332136840"
+    },
+    {
+      "type": "standard",
+      "title": "40",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-40. Generating key pair. \nWhere any Digital Signature Certificate, the public key of which corresponds to the private \nkey of that subscriber which is to be listed in the Digital Signature Certificate has been accepted by \na subscriber, then, the subscriber shall generate the key pair by applying the security procedure. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec40",
+      "dialog_node": "node_23_1625246986225",
+      "previous_sibling": "node_24_1625246988866"
+    },
+    {
+      "type": "standard",
+      "title": "92",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-92. Amendment of Act 1 of 1872. \n The Indian Evidence Act, 1872 shall be amended in the manner specified in the Second Schedule \nto this Act. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec92",
+      "dialog_node": "node_23_1625332136840",
+      "previous_sibling": "node_24_1625332139276"
+    },
+    {
+      "type": "standard",
+      "title": "39",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-39. Notice of suspension or revocation. \n(1) Where a Digital Signature Certificate is suspended or revoked under section 37 or section \n38, the Certifying Authority shall publish a notice of such suspension or revocation, as the case may \nbe, in the repository specified in the Digital Signature Certificate for publication of such notice. \n (2) Where one or more repositories are specified, the Certifying Authority shall publish \nnotices of such suspension or revocation, as the case may he. in all such repositories. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec39",
+      "dialog_node": "node_24_1625246988866",
+      "previous_sibling": "node_25_1625246991399"
+    },
+    {
+      "type": "standard",
+      "title": "91",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-91. Amendment of Act 45 of 1860. \n The Indian Penal Code shall be amended in the manner specified in the First Schedule to this \nAct. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec91",
+      "dialog_node": "node_24_1625332139276",
+      "previous_sibling": "node_25_1625332141813"
+    },
+    {
+      "type": "standard",
+      "title": "38",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-38. Revocation of Digital Signature Certificate. \n(1) A Certifying Authority may revoke a Digital Signature Certificate issued by it— \n(a) where the subscriber or any other person authorised by him makes a \nrequest to that effect; or\n(b) upon the death of the subscriber, or\n(c) upon the dissolution of the firm or winding up of the company where the \nsubscriber is a firm or a company.\n (2) Subject to the provisions of sub-section (3) and without prejudice to the provisions \nof sub-section (1), a CertifyingAuthority may revoke a Digital Signature Certificate \nwhich has been issued by it at any time, if it is of opinion that—\n(a) a material fact represented in the Digital Signature Certificate is false or \nhas been concealed;\n(b) a requirement for issuance of the Digital Signature Certificate was not \nsatisfied;\n(c) the Certifying Authority's private key or security system was \ncompromised in a manner materially affecting the Digital Signature Certificate's \nreliability;\n(4) On revocation of a Digital Signature Certificate under this section, the Certifying Authority \nshall communicate the same to the subscriber. \n(d) the subscriber has been declared insolvent or dead or where a subscriber \nis a firm or a company, which has been dissolved, wound-up or otherwise ceased to \nexist \n (3) A Digital Signature Certificate shall not be revoked unless the subscriber has been \ngiven an opportunity of being heard in the matter."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec38",
+      "dialog_node": "node_25_1625246991399",
+      "previous_sibling": "node_8_1625246952087"
+    },
+    {
+      "type": "standard",
+      "title": "90",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-90. Power of State Government to make rules. \n(1) The State Government may, by notification in the Official Gazette, make rules to carry out \nthe provisions of this Act. \n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may \nprovide for all or any of the following matters, namely: — \n(a) the electronic form in which filing, issue, grant receipt or payment shall be effected \nunder sub-section (1) of section 6; \n(b) for matters specified in sub-section (2) of section 6; \n(c) any other matter which is required to be provided by rules by the State Government. \n(3) Every rule made by the State Government under this section shall be laid, as soon as may be \nafter it is made, before each House of the State Legislature where it consists of two Houses, or where \nsuch Legislature consists of one House, before that House. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec90",
+      "dialog_node": "node_25_1625332141813",
+      "previous_sibling": "node_26_1625332144338"
+    },
+    {
+      "type": "standard",
+      "title": "46",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-46. Power to adjudicate. \n(1) For the purpose of adjudging under this Chapter whether any person has \ncommitted a contravention of any of the provisions of this Act or of any rule, regulation, \ndirection or order made thereunder the Central Government shall, subject to the \nprovisions of sub-section (3), appoint any officer not below the rank of a Director to the \nGovernment of India or an equivalent officer of a State Government to be an adjudicating \nofficer'for holding an inquiry in the manner prescribed by the Central Government.\n(2) The adjudicating officer shall, after giving the person referred to in sub-section \n(1) a reasonable opportunity for making representation in the matter and if, on such \ninquiry, he is satisfied that the person has committed the contravention, he may impose \nsuch penalty or award such compensation as he thinks fit in accordance with the provisions \nof that section.\n(3) No person shall be appointed as an adjudicating officer unless he possesses such \nexperience in the field of Information Technology and legal or judicial experience as may \nbe prescribed by the Central Government.\n(4) Where more than one adjudicating officers are appointed, the Central \nGovernment shall specify by order the matters and places with respect to which such \nofficers shall exercise their jurisdiction.\n(5) Every adjudicating officer shall have the powers of a civil court which are \nconferred oh the Cyber Appellate Tribunal under sub-section (2) of section 58, and—\n(a) all proceedings before it shall be deemed to be judicial proceedings within \nthe meaning of sections 193 and 228 of the Indian Penal Code;\n(b) shall be deemed to be a civil court for the purposes of sections 345 and \n346 of the Code of Criminal Procedure, 1973."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec46",
+      "dialog_node": "node_26_1625247395342",
+      "previous_sibling": "node_27_1625247398327"
+    },
+    {
+      "type": "standard",
+      "title": "89",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-89. Power of Controller to make regulations. \n(1) The Controller may, after consultation with the Cyber Regulations Advisory Committee \nand with the previous approval of the Central Government, by notification in the Official Gazette, \nmake regulations consistent with this Act and the rules made thereunder to carry out the purposes of \nthis Act. \n (2) In particular, and without prejudice to the generality of the foregoing power, such \nregulations may provide for all or any of the following matters, namely: — \n(a) the particulars relating to maintenance of data-base containing the disclosure record \nof every Certifying Authority under clause (m) of section 18; \n(b) the conditions and restrictions subject to which the Controller may recognise any \nforeign Certifying Authority under sub-section (1) of section 19; (c) the terms and conditions subject to which a licence may be granted under clause (c) of \nsub-section (3) of section 21; \n(d) other standards to be observed by a Certifying Authority under clause (d) of section 30; \n(e) the manner in which the Certifying Authority shall disclose the matters specified in \nsub-section (1) of section 34; \n (f) the particulars of statement which shall accompany an application under sub-section (3)\nof section 35; \n (g) the manner in which the subscriber shall communicate the compromise of private key to \nthe certifying Authority under sub-section (2) of section 42. \n(3) Every regulation made under this Act shall be laid, as soon as may be after it is made, before \neach House of Parliament, while it is in session, for a total period of thirty days which may be comprised \nin one session or in two or more successive sessions, and if, before the expiry of the session immediately \nfollowing the session or the successive sessions aforesaid, both Houses agree in making any modification \nin the regulation or both Houses agree that the regulation should not be made, the regulation shall \nthereafter have effect only in such modified form or he of no effect, as the case may be; so, however, that \nany such modification or annulment shall be without prejudice to the validity of anything previously \ndone under (hat regulation. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec89",
+      "dialog_node": "node_26_1625332144338",
+      "previous_sibling": "node_16_1625331810166"
+    },
+    {
+      "type": "standard",
+      "title": "45",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-45. Residuary penalty. \nWhoever contravenes any rules or regulations made under this Act, for .the \ncontravention of which no penalty has been separately provided, shall be liable to pay a \ncompensation not exceeding twenty-five thousand rupees to the person affected by such \ncontravention or a penalty not exceeding twenty-five thousand rupees."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec45",
+      "dialog_node": "node_27_1625247398327",
+      "previous_sibling": "node_28_1625247400775"
+    },
+    {
+      "type": "standard",
+      "title": "94",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-94. Amendment of Act 2 of 1834. \n The Reserve Bank of India Act, 1934 shall be amended in the manner specified in the Fourth \nSchedule to this Act. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec94",
+      "dialog_node": "node_27_1625332416759",
+      "previous_sibling": "node_22_1625332134431"
+    },
+    {
+      "type": "standard",
+      "title": "44",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-44. Penalty for failure to furnish information return, etc. \nIf any person who is required under this Act or any rules or regulations made \nthereunder to—\n(a) furnish any document, return or report to the Controller or ?he Certifying \nAuthority fails to furnish the same, he shall be liable to a penalty not exceeding one \nlakh and fifty thousand rupees for each such failure;\n(b) file any return or furnish any information, books or other documents within \nthe time specified therefor in the regulations fails to file return or furnish the same \nwithin the time specified therefor in the regulations, he shall be liable to a penalty not \nexceeding five thousand rupees for every day during which such failure continues;(c) maintain books of account or records, fails to maintain the same, he shall \nbe liable to a penalty not exceeding ten thousand rupees for every day during which \nthe failure continues."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec44",
+      "dialog_node": "node_28_1625247400775",
+      "previous_sibling": "node_20_1625246977601"
+    },
+    {
+      "type": "standard",
+      "title": "51",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-51. Term of office \nThe Presiding Officer of a Cyber Appellate Tribunal shall hold office for a term of \nfive years from the date on which he enters upon his office or until he attains the age of \nsixty-five years, whichever is earlier. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec51",
+      "dialog_node": "node_29_1625247602208",
+      "previous_sibling": "node_30_1625247604622"
+    },
+    {
+      "type": "standard",
+      "title": "50",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-50. Qualifications for appointment as Presiding Officer of the Cyber Appellate \nTribunal. \n A person shall not be qualified for appointment as the Presiding Officer of a Cyber \nAppellate Tribunal unless he— \n(a) is, or has been. or is qualified to be, a Judge of a High Court; or \n(b) is or has been a member of the Indian Legal Service and is holding or has \nheld a post in Grade I of that Service for at least three years.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec50",
+      "dialog_node": "node_30_1625247604622",
+      "previous_sibling": "node_31_1625247607133"
+    },
+    {
+      "type": "standard",
+      "title": "49",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-49. Composition of Cyber Appellate Tribunal. \n A Cyber Appellate Tribunal shall consist of one person only (hereinafter referred to as \nthe Residing Officer of the Cyber Appellate Tribunal) to be appointed, by notification, by the \nCentral Government "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec49",
+      "dialog_node": "node_31_1625247607133",
+      "previous_sibling": "node_32_1625247609374"
+    },
+    {
+      "type": "standard",
+      "title": "7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-7. Retention of electronic records. \n(1) Where any law provides that documents, records or information shall be retained \nfor any specific period, then, that requirement shall be deemed to have been satisfied if such \ndocuments, records or information are retained in the electronic form, if—\n(a) the information contained therein remains accessible so as to be usable for a \nsubsequent reference;\n(b) the electronic record is retained in the format in which it was originally \ngenerated, sent or received or in a format which can be demonstrated to represent \naccurately the information originally generated, sent or received;\n(c) the details which will facilitate the identification of the origin, destination, \ndate and time of despatch or receipt of such electronic record are available in the \nelectronic record:\nProvided that this clause does not apply to any information which is \nautomatically generated solely for the purpose of enabling an electronic record to be \ndespatched or received.\n(2) Nothing in this section shall apply to any law that expressly provides for the\nretention of documents, records or information in the form of electronic records. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec7",
+      "dialog_node": "node_3_1625164951309",
+      "previous_sibling": "node_7_1625164950334"
+    },
+    {
+      "type": "standard",
+      "title": "18",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-18. Functions of Controller. \nThe Controller may perform all or any of the following functions, namely:—\n (a) exercising supervision over the activities of the Certifying Authorities;\n(b) certifying public keys of the Certifying Authorities;\n(c) laying down the standards to be maintained by the Certifying Authorities;\n(d) specifying the qualifications and experience which employees of the \nCertifying Authorities should possess;\n(e) specifying the conditions subject to which the Certifying Authorities shall \nconduct their business;\n(f) specifying the contents of written, printed or visual materials and \nadvertisements that may be distributed or used in respect of a Digital Signature \nCertificate and the public key; \n(g) specifying the form and content of a Digital Signature Certificate and the \nkey,\n (h) specifying the form and manner in which accounts shall be maintained by \nthe Certifying Authorities;\n (i) specifying the terms and conditions subject to which auditors may be \nappointed and the remuneration to be paid to them;\n(j) facilitating the establishment of any electronic system by a Certifying \nAuthority either solely or jointly with other Certifying Authorities and regulation of \nsuch systems;\n (k) specifying the manner in which the Certifying Authorities shall conduct their \ndealings with the subscribers;\n (l) resolving any conflict of interests between the Certifying Authorities and the \nsubscribers;\n(m) laying down the duties of the Certifying Authorities;\n (n) maintaining a data base containing the disclosure record of every Certifying \nAuthority containing such particulars as may be specified by regulations, which shall \nbe accessible to public."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec18",
+      "dialog_node": "node_3_1625245004477",
+      "previous_sibling": "node_4_1625245006827"
+    },
+    {
+      "type": "standard",
+      "title": "73",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-73. Penalty for publishing Digital Signature Certificate false in certain particulars. \n(1) No person shall publish a Digital Signature Certificate or otherwise make it available to any \nother person with the knowledge that— \n(a) the Certifying Authority listed in the certificate has not issued it; or \n(b) the subscriber listed in the certificate has not accepted it; or \n (c) the certificate has been revoked or suspended, \nunless such publication is for the purpose of verifying a digital signature created prior to such \nsuspension or revocation. \n (2) Any person who contravenes the provisions of sub-section (1) shall be punished with \nimprisonment for a term which may extend to two years, or with fine which may extend to one lakh \nrupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec73",
+      "dialog_node": "node_3_1625331184288",
+      "previous_sibling": "node_4_1625331187410"
+    },
+    {
+      "type": "standard",
+      "title": "48",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-48. Establishment of Cyber Appellate Tribunal. \n(1) The Central Government shall, by notification, establish one or more appellate \ntribunals to be known as the Cyber Regulations Appellate Tribunal.\n(2) The Central Government shall also specify, in the notification referred to in sub\u0002section (1), the matters and places in relation to which the Cyber Appellate Tribunal may \nexercise jurisdiction."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec48",
+      "dialog_node": "node_32_1625247609374",
+      "previous_sibling": "node_33_1625247612421"
+    },
+    {
+      "type": "standard",
+      "title": "47",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-47. Factors to be taken into account by the adjudicating officer. \n While adjudging the quantum of compensation under this Chapter, the adjudicating \nofficer shall have due regard to the following factors, namely:—\n(a) the amount of gain of unfair advantage, wherever quantifiable, made as a \nresult of the default;\n(b) the amount of loss caused to any person as a result of the default;\n(c) the repetitive nature of the default"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec47",
+      "dialog_node": "node_33_1625247612421",
+      "previous_sibling": "node_26_1625247395342"
+    },
+    {
+      "type": "standard",
+      "title": "57",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-57. Appeal to Cyber Appellate Tribunal. \n(1) Save as provided in sub-section (2), any person aggrieved by an order made by \nController or an adjudicating officer under this Act may prefer an appeal to a Cyber \nAppellate Tribunal having jurisdiction in the matter.\n(2) No appeal shall lie to the Cyber Appellate Tribunal from an order made by an \nadjudicating officer with the consent of the parties.\n(3) Every appeal under sub-section (1) shall be filed within a period of tony-five \ndays from the date on which a copy of the order made by the Controller or the adjudicating \nofficer is received by the person aggrieved and it shall be in such form and be accompanied \nby such fee as may be prescribed:\nProvided that the Cyber Appellate Tribunal may entertain an appeal after the expiry \nof the said period of tony-five days if it is satisfied that there was sufficient cause tor not \nfiling it within that period.\n(4) On receipt of an appeal under sub-section (1), the Cyber Appellate Tribunal may, \nafter giving the parties to the appeal, an opportunity of being heard, pass such orders \nthereon as it thinks fit, confirming, modifying or setting aside the order appealed against.\n(5) The Cyber Appellate Tribunal shall send a copy of every order made by it to\" the \nparties to the appeal and to the concerned Controller or adjudicating officer.\n(6) The appeal filed before the Cyber Appellate Tribunal under sub-section (1) shall \nbe dealt with by it as expeditiously as possible and endeavour shall be made by it to \ndispose of the appeal finally within six months from the date of receipt of the appeal."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec57",
+      "dialog_node": "node_34_1625248042103",
+      "previous_sibling": "node_35_1625248045523"
+    },
+    {
+      "type": "standard",
+      "title": "56",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-56. Staff of the Cyber Appellate Tribunal. \n(1) The Central Government shall provide the Cyber Appellate Tribunal with such officers \nand employees as that Government may think fit \n(2) The officers and employees of the Cyber Appellate Tribunal shall discharge their \nfunctions under general superintendence of the Presiding Officer. \n(3) The salaries, allowances and other conditions of service of the officers and employees or' \nthe Cyber Appellate Tribunal shall be such as may be prescribed by the Central Government. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec56",
+      "dialog_node": "node_35_1625248045523",
+      "previous_sibling": "node_36_1625248048001"
+    },
+    {
+      "type": "standard",
+      "title": "55",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-55. Orders constituting Appellate Tribunal to be final and not to invalidate its \nproceedings. \n No order of the Central Government appointing any person as the Presiding Officer of a \nCyber Appellate Tribunal shall be called in question in any manner and no act or proceeding before \na Cyber Appellate Tribunal shall be called in question in any manner on the ground merely of any \ndefect in the constitution of a Cyber Appellate Tribunal. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec55",
+      "dialog_node": "node_36_1625248048001",
+      "previous_sibling": "node_37_1625248050204"
+    },
+    {
+      "type": "standard",
+      "title": "54",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-54. Resignation and removal. \n (1) The Presiding Officer of a Cyber Appellate Tribunal may, by notice in writing under his \nhand addressed to the Central Government, resign his office: \nProvided that the said Presiding Officer shall, unless he is permitted by the Central \nGovernment to relinquish his office sooner, continue to hold office until the expiry of three months \nfrom the date of receipt of such notice or until a person duly appointed as his successor enters upon \nhis office or until the expiry of his term of office, whichever is the earliest. \n (2) The Presiding Officer of a Cyber Appellate Tribunal shall not be removed from his office \nexcept by an order by the Central Government on the ground of proved misbehaviour or incapacity \nafter an inquiry made by a Judge of the Supreme Court in which the Presiding Officer concerned has \nbeen informed of the charges against him and given a reasonable opportunity of being heard in \nrespect of these charges. \n(3) The Central Government may, by rules, regulate the procedure for the investigation of \nmisbehaviour or incapacity of the aforesaid Presiding Officer. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec54",
+      "dialog_node": "node_37_1625248050204",
+      "previous_sibling": "node_38_1625248052466"
+    },
+    {
+      "type": "standard",
+      "title": "53",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-53. Filling up of vacancies. \nIf, for reason other than temporary absence, any vacancy occurs in the office n the \nPresiding Officer of a Cyber Appellate Tribunal, then the Central Government shall \nappoint another person in accordance with the provisions of this Act to fill the vacancy \nand the proceedings may be continued before the Cyber Appellate Tribunal from the stage \nat which the vacancy is filled. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec53",
+      "dialog_node": "node_38_1625248052466",
+      "previous_sibling": "node_39_1625248055020"
+    },
+    {
+      "type": "standard",
+      "title": "52",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-52. Salary, allowances and other terms and conditions of service of Presiding \nOfficer. \nThe salary and allowances payable to, and the other terms and conditions of service \nincluding pension, gratuity and other retirement benefits of. the Presiding Officer of a \nCyber Appellate Tribunal shall be such as may be prescribed: \nProvided that neither the salary and allowances nor the other terms and conditions of \nservice of the Presiding Officer shall be varied to his disadvantage after appointment."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec52",
+      "dialog_node": "node_39_1625248055020",
+      "previous_sibling": "node_29_1625247602208"
+    },
+    {
+      "type": "standard",
+      "title": "67",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-67. Publishing of information which is obscene in electronic form. \n Whoever publishes or transmits or causes to be published in the electronic form, any \nmaterial which is lascivious or appeals to the prurient interest or if its effect is such as to \ntend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it, shall be \npunished on first conviction with imprisonment of either description for a term which may \nextend to five years and with fine which may extend to one lakh rupees and in the event of \na second or subsequent conviction with imprisonment of either description for a term \nwhich may extend to ten years and also with fine which may extend to two lakh rupees."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec67",
+      "dialog_node": "node_40_1625248302801",
+      "previous_sibling": "node_41_1625248305507"
+    },
+    {
+      "type": "standard",
+      "title": "66",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-66. Hacking with computer system. \n (1) Whoever with the intent to cause or knowing that he is likely to cause wrongful \nloss or damage to the public or any person destroys or deletes or alters any information \nresiding in a computer resource or diminishes its value or utility or affects it injuriously by \nany means, commits hack:\n(2) Whoever commits hacking shall be punished with imprisonment up to three years, \nor with fine which may extend upto two lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec66",
+      "dialog_node": "node_41_1625248305507",
+      "previous_sibling": "node_42_1625248307983"
+    },
+    {
+      "type": "standard",
+      "title": "17",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-17. Appointment of Controller and other officers. \n(1) The Central Government may, by notification in the Official Gazette, appoint a \nController of Certifying Authorities for the purposes of this Act and may also by the same \nor subsequent notification appoint such number of Deputy Controllers and Assistant \nControllers as it deems fit.\n(2) The Controller shall discharge his functions under this Act subject to the general \ncontrol and directions of the Central Government.\n (3) The Deputy Controllers and Assistant Controllers shall perform the functions \nassigned to them by the Controller under the general superintendence and control of the \nController.\n(4) The qualifications, experience and terms and conditions of service of Controller, \nDeputy Controllers and Assistant Controllers shall be such as may be prescribed by the \nCentral Government.\n(5) The Head Office and Branch Office of the office of the Controller shall be at \nsuch places as the Central Government may specify, and these may be established at such \nplaces as the Central Government may think fit.\n(6) There shall be a seal of the Office of the Controller."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec17",
+      "dialog_node": "node_4_1625245006827",
+      "previous_sibling": "node_5_1625245010191"
+    },
+    {
+      "type": "standard",
+      "title": "72",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-72. Penalty for breach of confidentiality and privacy. \n Save as otherwise provided in this Act or any other law for the time being in force, any person \nwho, in pursuance of any of the powers conferred under this Act, rules or regulations made thereunder, \nhas secured access to any electronic record, book, register, correspondence, information, document or \nother material without the consent of the person concerned discloses such electronic record, book. \nregister, correspondence, information, document or other material to any other person shall be \npunished with imprisonment for a term which may extend to two years, or with fine which may extend \nto one lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec72",
+      "dialog_node": "node_4_1625331187410",
+      "previous_sibling": "node_5_1625331189738"
+    },
+    {
+      "type": "standard",
+      "title": "65",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-65. Tampering with computer source documents. \nWhoever knowingly or intentionally conceals, destroys or alters or intentionally or \nknowingly causes another to conceal, destroy or alter any computer source code used for a \ncomputer, computer programme, computer system or computer network, when the \ncomputer source code is required to be kept or maintained by law for the time being in \nforce, shall be punishable with imprisonment up to three years, or with fine which may \nextend up to two lakh rupees, or with both.\nExplanation.—For the purposes of this section, \"computer source code\" means the \nlisting of programmes, computer commands, design and layout and programme analysis of \ncomputer resource in any form."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec65",
+      "dialog_node": "node_42_1625248307983",
+      "previous_sibling": "node_43_1625248310725"
+    },
+    {
+      "type": "standard",
+      "title": "64",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-64. Recovery of penalty \n A penalty imposed under this Act, if it is not paid, shall be recovered as an arrear of \nland revenue and the licence or the Digital Signature Certificate, as the case may be, shall \nbe suspended till the penalty is paid. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec64",
+      "dialog_node": "node_43_1625248310725",
+      "previous_sibling": "node_44_1625248313295"
+    },
+    {
+      "type": "standard",
+      "title": "63",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-63. Compounding of contraventions. \n(1) Any contravention under this Chapter may, either before or after the institution of \nadjudication proceedings, be compounded by the Controller or such other officer as may be \nspecially authorised by him in this behalf or by the adjudicating officer, as the case may be, \nsubject to such conditions as the Controller or such other officer or the adjudicating officer may \nspecify:\nProvided that such sum shall not, in any case, exceed the maximum amount of the penalty \nwhich may be imposed under this Act for the contravention so compounded.\n(2) Nothing in sub-section (1) shall apply to a person who commits the same or similar \ncontravention within a period of three years from the date on which the first contravention, \ncommitted by him, was compounded.\nExplanation.—For the purposes of this sub-section, any second or subsequent \ncontravention committed after the expiry of a period of three years from the date on which \nthe contravention was previously compounded shall be deemed to be a first contravention.\n(3) Where any contravention has been compounded under sub-section (1), no proceeding or \nfurther proceeding, as the case may be, shall be taken against the person guilty of such \ncontravention in respect of the contravention so compounded."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec63",
+      "dialog_node": "node_44_1625248313295",
+      "previous_sibling": "node_45_1625248315993"
+    },
+    {
+      "type": "standard",
+      "title": "62",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-62. Appeal to High Court. \n Any person aggrieved by any decision or order of the Cyber Appellate Tribunal may \nfile an appeal to the High Court within sixty days from the date of communication of the \ndecision or order of the Cyber Appellate Tribunal to him on any question of fact or law \narising out of such order\nProvided that the High Court may, if it is satisfied that the appellant was prevented by sufficient \ncause from filing the appeal within the said period, allow it to be filed within a further period \nnot exceeding sixty days. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec62",
+      "dialog_node": "node_45_1625248315993",
+      "previous_sibling": "node_46_1625248318771"
+    },
+    {
+      "type": "standard",
+      "title": "61",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-61. Civil court not to have jurisdiction. \nNo court shall have jurisdiction to entertain any suit or proceeding in respect of any \nmatter which an adjudicating officer appointed under this Act or the Cyber Appellate \nTribunal constituted under this Act is empowered by or under this Act to determine and no \ninjunction shall be granted by any court or other authority in respect of any action taken or \nto be taken in pursuance of any power conferred by or under this Act."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec61",
+      "dialog_node": "node_46_1625248318771",
+      "previous_sibling": "node_47_1625248321618"
+    },
+    {
+      "type": "standard",
+      "title": "60",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-60. Limitation. \n The provisions of the Limitation Act, 1963, shall, as far as may be, apply to an appeal made \nto the Cyber Appellate Tribunal"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec60",
+      "dialog_node": "node_47_1625248321618",
+      "previous_sibling": "node_48_1625248327601"
+    },
+    {
+      "type": "standard",
+      "title": "59",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-59. Right to legal representation. \n The appellant may either appear in person or authorise one or more legal practitioners or any \nof its officers to present his or its case before the Cyber Appellate Tribunal."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec59",
+      "dialog_node": "node_48_1625248327601",
+      "previous_sibling": "node_49_1625248331352"
+    },
+    {
+      "type": "standard",
+      "title": "58",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-58. Procedure and powers of the Cyber Appellate Tribunal. \n(1) The Cyber Appellate Tribunal shall not be bound by the procedure laid down by \nthe Code of civil Procedure, 1908 but shall be guided by the principles of natural justice \nand, subject to the other provisions of this Act and of any rules, the Cyber Appellate \nTribunal shall have powers to regulate its own procedure including the place at which it \nshall have its sittings.\n(2) The Cyber Appellate Tribunal shall have, for the purposes of discharging its \nfunctions under this Act, the same powers as are vested in a civil court under the Code of \nCivil Procedure, 1908, while trying a suit, in respect of the following matters, namely:—\n(a) summoning and enforcing the attendance of any person and examining him \non oath;\n(b) requiring the discovery and production of documents or other electronic \nrecords;\n(c) receiving evidence on affidavits; \n(d) issuing commissions for the examination of witnesses or documents; \n(e) reviewing its decisions; \n(f) dismissing an application for default or deciding it ex pane;\n(g) any other matter which may be prescribed. \n (3) Every proceeding before the Cyber Appellate Tribunal shall be deemed to be a judicial \nproceeding within the meaning of sections 193 and 228, and for the purposes of section 196 of the \nIndian Penal Code and the Cyber Appellate Tribunal shall be deemed to be a civil court for the \npurposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec58",
+      "dialog_node": "node_49_1625248331352",
+      "previous_sibling": "node_34_1625248042103"
+    },
+    {
+      "type": "standard",
+      "title": "16",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-16. Security procedure. \nThe Central Government shall for the purposes of this Act prescribe the security \nprocedure having regard to commercial circumstances prevailing at the time when the \nprocedure was used, including—\n (a) the nature of the transaction;\n (b) the level of sophistication of the parties with reference to their \ntechnological capacity;\n (c) the volume of similar transactions engaged in by other parties;\n(a) the availability of alternatives offered to but rejected by any party;\n(e) the cost of alternative procedures; and\n (f) the procedures in general use for similar types of transactions or \ncommunications."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec16",
+      "dialog_node": "node_5_1625245010191",
+      "previous_sibling": "node_2_1625244751933"
+    },
+    {
+      "type": "standard",
+      "title": "71",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-71. Penalty for misrepresentation. \n Whoever makes any misrepresentation to, or suppresses any material fact from, the Controller \nor the Certifying Authority for obtaining any licence or Digital Signature Certificate, as the case may \nbe. shall be punished with imprisonment for a term which may extend to two years, or with fine which \nmay extend to one lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec71",
+      "dialog_node": "node_5_1625331189738",
+      "previous_sibling": "node_6_1625331192265"
+    },
+    {
+      "type": "standard",
+      "title": "12",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-12. Acknowledgment of receipt. \n(1) Where the originator has not agreed with the addressee that the acknowledg\u0002ment of receipt of electronic record be given in a particular form or by a particular \nmethod, an acknowledgment may be given by—\n(a) any communication by the addressee, automated or otherwise; or\n(b) any conduct of the addressee, sufficient to indicate to the originator that \nthe electronic record has been received.\n(2) Where the originator has stipulated that the electronic record shall be binding \nonly on receipt of an acknowledgment of such electronic record by him, then unless \nacknowledgment has been so received, the electronic record shall be deemed to have \nbeen never sent by the originator.\n(3) Where the originator has not stipulated that the electronic record shall be \nbinding only on receipt of such acknowledgment, and the acknowledgment has not been \nreceived by the originator within the time specified or agreed or, if no time has been \nspecified or agreed to within a reasonable time, then the originator may give notice to the \naddressee stating that no acknowledgment has been received by him and specifying a \nreasonable time by which the acknowledgment must be received by him and if no \nacknowledgment is received within the aforesaid time limit he may after giving notice to \nthe addressee, treat the electronic record as though it has never been sent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec12",
+      "dialog_node": "node_6_1625244745418",
+      "previous_sibling": "node_7_1625244744649"
+    },
+    {
+      "type": "standard",
+      "title": "13",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-13. Time and place of despatch and receipt of electronic record. \n(1) Save as otherwise agreed to between the originator and the addressee, the dispatch of an \nelectronic record occurs when it enters a computer resource outside the control of the originator. \n(2) Save as otherwise agreed between the originator and the addressee, the time of receipt of \nan electronic record shall be determined as follows, namely :— \n(a) if the addressee has designated a computer resource for the purpose of receiving \nelectronic records,— \n (i) receipt occurs at the time when the electronic, record enters the designated \ncomputer resource; or \n(ii) if the electronic record is sent to a computer resource of the addressee that is \nnot the designated computer resource, receipt occurs at the time when the electronic \nrecord is retrieved by the addressee; \n(b) if the addressee has not designated a computer resource along with specified \ntimings, if any, receipt occurs when the electronic record enters the computer resource of the \naddressee. \n(3) Save as otherwise agreed to between the originator and the addressee, an electronic \nrecord is deemed to be dispatched at the place where the originator has his place of business, and is \ndeemed to be received at the place where the addressee has his place of business. \n (4) The provisions of sub-section (2) shall apply notwithstanding that the place where the \ncomputer resource is located may be different from the place where the electronic record is \ndeemed to have been received under sub-section (3). \n(5) For the purposes of this section, — \n(a) if the originator or the addressee has more than one place of business, the \nprincipal place of business, shall be the place of business; \n(b) if the originator or the addressee does not have a place of business, his usual \nplace of residence shall be deemed to be the place of business; \n(c) \"usual place of residence\", in relation to a body corporate, means the place \nwhere it is registered."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec13",
+      "dialog_node": "node_6_1625244746945",
+      "previous_sibling": "node_6_1625244745418"
+    },
+    {
+      "type": "standard",
+      "title": "31",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-31. Certifying Authority to ensure compliance of the Act, etc. \nEvery Certifying Authority shall ensure that every person employed or otherwise engaged by it \ncomplies, in the course of his employment or engagement, with the provisions of this Act, rules, \nregulations and orders made thereunder. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec31",
+      "dialog_node": "node_6_1625245310012",
+      "previous_sibling": "node_7_1625245312093"
+    },
+    {
+      "type": "standard",
+      "title": "70",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-70. Protected system. \n(1) The appropriate Government may, by notification in the Official Gazette, declare that any \ncomputer, computer system or computer network to be a protected system. \n (2) The appropriate Government may, by order in writing, authorise the persons who are \nauthorised to access protected systems notified under sub-section (1). \n (3) Any person who secures access or attempts to secure access to a protected system in \ncontravention of the provisions of this section shall be punished with imprisonment of either \ndescription for a term which may extend to ten years and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec70",
+      "dialog_node": "node_6_1625331192265",
+      "previous_sibling": "node_7_1625331195481"
+    },
+    {
+      "type": "standard",
+      "title": "1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-1. Short title, extent, commencement and application\n (1) This Act may be called the Information Technology Act, 2000.\n(2) It shall extend to the whole of India and, save as otherwise provided in this \nAct, it applies also to any offence or contravention thereunder committed outside \nIndia by any person. (3) It shall come into force on such date as the Central Government may, by notification, \nappoint and different dates may be appointed for different provisions of this Act and any reference \nin any such provision to the commencement of this Act shall be construed as a reference to the \ncommencement of that provision. \n(4) Nothing in this Act shall apply to, — \n(a) a negotiable instrument as defined in section 13 of the Negotiable Instruments Act, \n1881; \n(b) a power-of-attorney as defined in section 1A of the Powers-of-Attorney Act, 1882; \n(c) a trust as defined in section 3 of the Indian Trusts Act, 1882; \n(d) a will as defined in clause (h) of section 2 of the Indian Succession Act, 1925 \nincluding any other testamentary disposition by whatever name called; \n(e) any contract for the sale or conveyance of immovable property or any interest in \nsuch property; \n(f) any such class of documents or transactions as may be notified by the Central \nGovernment in the Official Gazette."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec1 || @1",
+      "dialog_node": "node_7_1625159889081"
+    },
+    {
+      "type": "standard",
+      "title": "6",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-6. Use of electronic records and digital signatures in Government and its agencies. \n(1) Where any law provides for—\n(a) the filing of any form. application or any other document with any office, \nauthority, body or agency owned or controlled by the appropriate Government in a \nparticular manner;\n(b) the issue or grant of any licence, permit, sanction or approval by whatever \nname called in a particular manner;\n(c) the receipt or payment of money in a particular manner,\nthen, notwithstanding anything contained in any other law for the time being in force, such \nrequirement shall be deemed to have been satisfied if such filing, issue, grant, receipt or \npayment, as the case may be, is effected by means of such electronic form as may be \nprescribed by the appropriate Government.\n(2) The appropriate Government may, for the purposes of sub-section (1), by rules, \nprescribe—\n(a) the manner and format in which such electronic records shall be filed, \ncreated or issued;\n(b) the manner or method of payment of any fee or charges for filing, creation \nor issue any electronic record under clause (a)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec6",
+      "dialog_node": "node_7_1625164950334",
+      "previous_sibling": "node_2_1625164949378"
+    },
+    {
+      "type": "standard",
+      "title": "11",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-11. Attribution of electronic records. \nAn electronic record shall be attributed to the originator—\n(a) if it was sent by the originator himself;\n(b) by a person who had the authority to act on behalf of the originator in \nrespect of that electronic record; or\n(c) by an information system programmed by or on behalf of the originator to \noperate automatically."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec11",
+      "dialog_node": "node_7_1625244744649",
+      "previous_sibling": "node_1_1625164953230"
+    },
+    {
+      "type": "standard",
+      "title": "30",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-30. Certifying Authority to follow certain procedures. \n Every Certifying Authority shall, — \n(a) make use of hardware, software and procedures that are secure from intrusion and misuse; \n (b) provide a reasonable level of reliability in its services which are reasonably suited to the \nperformance of intended functions; \n (c) adhere to security procedures to ensure that the secrecy and privacy of the digital signatures \nare assured; and \n (d) observe such other standards as may be specified by regulations. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec30",
+      "dialog_node": "node_7_1625245312093",
+      "previous_sibling": "node_8_1625245314366"
+    },
+    {
+      "type": "standard",
+      "title": "69",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-69. Directions of Controller to a subscriber to extend facilities to decrypt information. \n (1) If the Controller is satisfied that it is necessary or expedient so to do in the interest of the \nsovereignty or integrity of India, the security of the State, friendly relations with foreign Stales or \npublic order or for preventing incitement to the commission of any cognizable offence, for reasons to \nbe recorded in writing, by order, direct any agency of the Government to intercept any information \ntransmitted through any computer resource. \n(2) The subscriber or any person incharge of the computer resource shall, when called upon by \nany agency which has been directed under sub-section (1), extend all facilities and technical \nassistance to decrypt the information. \n(3) The subscriber or any person who fails to assist the agency referred to in sub-section (2) \nshall be punished with an imprisonment for a term which may extend to seven years. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec69",
+      "dialog_node": "node_7_1625331195481",
+      "previous_sibling": "node_8_1625331199567"
+    },
+    {
+      "type": "standard",
+      "title": "4",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-4. Legal recognition of electronic records. \n Where any law provides that information or any other matter shall be in writing or \nin the typewritten or printed form, then, notwithstanding anything contained in such law, \nsuch requirement shall be deemed to have been satisfied if such information or matter \nis—\n(a) rendered or made available in an electronic form; and\n(b) accessible so as to be usable for a subsequent reference."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec4",
+      "dialog_node": "node_8_1625159903991",
+      "previous_sibling": "node_1_1625159903761"
+    },
+    {
+      "type": "standard",
+      "title": "21",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-21. Licence to issue Digital Signature Certificates. \n(1) Subject to the provisions of sub-section (2), any person may make an application, to the \nController, for a licence to issue Digital Signature Certificates.\n(2) No licence shall be issued under sub-section (1), unless the applicant fulfills such \nrequirements with respect to qualification, expertise, manpower, financial resources and \nother infrastructure facilities, which are necessary to issue Digital Signature Certificates as \nmay be prescribed by the Central Government\n(3) A licence granted under this section shall—\n(a) be valid for such period as may be prescribed by the Central Government;\n(b) not be transferable or heritable;\n(c) be subject to such terms and conditions as may be specified by the \nregulations."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec21",
+      "dialog_node": "node_8_1625245282245",
+      "previous_sibling": "node_1_1625244996717"
+    },
+    {
+      "type": "standard",
+      "title": "29",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-29. Access to computers and data. \n(1)Without prejudice to the provisions of sub-section (1) of section 69, the Controller or any \nperson authorised by him shall, if he has reasonable cause to suspect that any contravention of the \nprovisions of this Act, rules or regulations made thereunder has been committed, have access to any \ncomputer system, any apparatus, data or any other material connected with such system, for the \npurpose of searching or causing a search to be made for obtaining any information or data contained in \nor available to such computer system. \n(2) For the purposes of sub-section (1), the Controller or any person authorised by him may, by \norder, direct any person incharge of, or otherwise concerned with the operation of, the computer \nsystem, data apparatus or material, to provide him with such reasonable technical and other assistance \nas he may consider necessary. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec29",
+      "dialog_node": "node_8_1625245314366",
+      "previous_sibling": "node_9_1625245316551"
+    },
+    {
+      "type": "standard",
+      "title": "37",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-37. Suspension of Digital Signature Certificate. \n(1) Subject to the provisions of sub-section (2), the Certifying Authority which has \nissued a Digital Signature Certificate may suspend such Digital Signature Certificate,—\n(a) on receipt of a request to that effect from—\n(i) the subscriber listed in toe Digital Signature Certificate; or \n(ii) any person duly authorised to act on behalf of that subscriber, \n(b) if it is of opinion that the Digital Signature Certificate should be \nsuspended in public interest\n(2) A Digital Signature Certificate shall not be suspended for a period exceeding \nfifteen days unless the subscriber has been given an opportunity of being heard in the \nmatter.\n(3) On suspension of a Digital Signature Certificate under this section, the \nCertifying Authority shall communicate the same to the subscriber"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec37",
+      "dialog_node": "node_8_1625246952087",
+      "previous_sibling": "node_16_1625246590006"
+    },
+    {
+      "type": "standard",
+      "title": "68",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-68. Power of Controller to give directions. \n (1) The Controller may, by order, direct a Certifying Authority or any employee of such \nAuthority to take such measures or cease carrying on such activities as specified in the order if those \nare necessary to ensure compliance with the provisions of this Act, rules or any regulations made \nthereunder. \n(2) Any person who fails to comply with any order under sub-section (1) shall be guilty of an \noffence and shall be liable on conviction to imprisonment for a term not exceeding three years or to a \nFine not exceeding two lakh rupees or to both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec68",
+      "dialog_node": "node_8_1625331199567",
+      "previous_sibling": "node_40_1625248302801"
+    },
+    {
+      "type": "standard",
+      "title": "28",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-28. Power to investigate contraventions. \n(1) The Controller or any officer authorised by him in this behalf shall take up for investigation \nany contravention of the provisions of this Act, rules or regulations made thereunder. \n (2) The Controller or any officer authorised by him in this behalf shall exercise the like powers \nwhich are conferred on Income-tax authorities under Chapter XIII of the Income-tax Act, 1961 and \nshall exercise such powers, subject to such limitations laid down under that Act. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec28",
+      "dialog_node": "node_9_1625245316551",
+      "previous_sibling": "node_10_1625245318560"
+    },
+    {
+      "type": "standard",
+      "title": "82",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section-82. Controller, Deputy Controller and Assistant Controllers to be public \nservants. \n The Presiding Officer and other officers and employees of a Cyber Appellate \nTribunal, the Controller, the Deputy Controller and the Assistant Controllers shall be \ndeemed to be public servants within the meaning of section 21 of the Indian Penal Code."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec82",
+      "dialog_node": "node_9_1625331536840",
+      "previous_sibling": "node_10_1625331540560"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I am the LAW FINDER bot!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "There are 96 sections in this act.\nEnter the section so that I can fetch you details."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "it",
+  "language": "en",
+  "description": ""
+}

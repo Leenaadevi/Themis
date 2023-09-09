@@ -1,0 +1,293 @@
+
+*{
+	margin:0%;
+	padding:0%;
+	font-family: 'Rubik', sans-serif;
+	 box-sizing: border-box;
+	 
+}
+body{
+
+
+background-image:url(/THEMIS/Images/Contact/wallpaperflare.com_wallpaper.jpg);
+	background-size:cover; 
+	background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center center;
+  }
+#nav
+{
+background-color:transparent  !important;
+font-weight:bold  !important;
+}
+
+.btn
+{
+
+font-family: 'Rubik', sans-serif;
+
+color:white;
+	
+}
+.btn:hover
+{
+	background:white;
+	color:black !important;
+	box-shadow:0 0 10px #FFFFFF,0 0 20px#FFFFFF ;
+}
+footer{
+
+    width: 100%;
+    background: #202020;
+    color: white; 
+		background-color:	rgba(0,0,0,.9) !important;
+	
+    
+}
+
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+
+}
+
+.container-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum1{
+    max-width: 400px;
+}
+
+.colum1 h1{
+    font-size: 22px;
+border-bottom-style: solid;
+
+}
+
+.colum1 p{
+    font-size: 18px;
+    color: #C7C7C7;
+    margin-top: 20px;
+}
+
+.colum2{
+    max-width: 400px;
+    
+}
+
+.colum2 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row img{
+    width: 36px;
+    height: 36px;
+}
+
+.row label{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #C7C7C7;
+}
+
+.colum3{
+    max-width: 400px;
+	
+}
+
+.colum3 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row2{
+    margin-top: 20px;
+    display: flex;
+	
+}
+
+#links
+{
+color:white ;	
+
+}
+#links:hover{
+color:grey;
+}
+
+.container-footer{
+    width: 100%;  
+    background: #101010;
+
+}
+
+.footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    padding: 20px;
+}
+
+.copyright{
+    color: #C7C7C7;
+		
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.information a{
+    text-decoration: none;
+    color: #C7C7C7;
+}
+#sec
+{
+
+	font-weight:bold;
+ background-color:	rgba(0,0,0,.8) !important;
+					border-radius:	20px;
+  border-color:black;
+
+
+}
+#sec:hover{
+	box-shadow:8px 8px 15px rgba(0,0,0,.6) ;
+	transition:.2s;
+}
+	
+	
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white !important;
+  opacity: 1  !important; /* Firefox */
+  font-weight:bold;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:  white  !important;
+    font-weight:bold;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color:white  !important;
+    font-weight:bold;
+}
+#subtn
+{font-weight:bold;
+		width:200px;
+	border-color:white;
+	background-color:white;
+color:black;
+	}
+
+#whats
+{ height:60px;
+width:60px;
+position:relative;
+margin-left:1425px  !important;
+top:600px !important;
+position:fixed;
+margin-right:10px;	
+transition:0.5s ease;
+border-radius:5px;
+}
+#whats:hover
+{transform:scale(1.05);
+	outline-color:#4ee44e !important;
+background:transparent;
+box-shadow:0 0 5px #4ee44e,0 0 20px #4ee44e;
+}
+.modal-content
+{ background-image:url('WhatsApp Image 2021-07-03 at 11.55.06 PM.jpeg');
+border-radius:15px;
+	}
+.modal-content:hover{
+	
+		box-shadow:5px 5px 15px rgba(0,0,0,.6);
+}	
+#whbtn
+{ width:250px;
+margin-left:100px;
+padding:12px;
+background-color:#01e675;
+font-size:18px;
+}
+#whbtn:hover
+{	box-shadow:0 0 10px #01e675,0 0 20px #01e675 !important ;
+color:white !important;
+}
+#wh_img
+{ border-radius:15px  !important;
+transition:0.5s ease;
+}
+#wh_img:hover
+{
+	transform:scale(1.01);
+		box-shadow:5px 5px 15px rgba(0,0,0,.6);
+}
+#wh_head
+{font-weight:bold;
+margin-top:10px;
+padding-bottom:7px;
+border-bottom-style:dotted;
+}
+#btn
+{height:60px;
+width:60px;
+background:transparent;
+border:none;
+font-weight:bold;
+font-size:25px;
+margin-top:10px;
+
+	
+}
+#btn:hover
+{box-shadow:0 0 5px #01e675,0 0 20px #01e675 !important ;
+background-color: #01e675!important;
+
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+	-webkit-appearance:none;
+}
+
+input{
+	 background-color:	rgba(0,0,0,.5)!important ;
+	 font-weight:bold !important;
+	 color:white !important;
+	
+}
+textarea
+{
+ background-color:	rgba(0,0,0,.5)!important ;
+	 font-weight:bold !important;
+	 color:white !important;
+}
+
+.form-group label{
+	color:white !important;
+	
+} 
+.fade-in
+{ opacity:1;
+transition:opacity 250ms ease-in;
+}
+.fade-in.apppear
+{opacity:1;
+}

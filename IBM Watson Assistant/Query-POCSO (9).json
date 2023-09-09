@@ -1,0 +1,1354 @@
+{
+  "intents": [
+    {
+      "intent": "aggravated_penetration",
+      "examples": [
+        {
+          "text": "A armed men raped my child"
+        },
+        {
+          "text": "A gang of people raped my 16 year old child"
+        },
+        {
+          "text": "A goverment servant raped my daughter"
+        },
+        {
+          "text": "A government employee raped my daughter"
+        },
+        {
+          "text": "A government hospital doctor raped my daughter while she went there for her treatment"
+        },
+        {
+          "text": "A government officer raped my daughter during his working time"
+        },
+        {
+          "text": "A group of boys from the next street raped my daughter when she came alone"
+        },
+        {
+          "text": "A group of policemen raped my daughter"
+        },
+        {
+          "text": "A jail staff raped my daughter while she was there as a prisoner"
+        },
+        {
+          "text": "A judge from the high court forced my daughter to have sex with him"
+        },
+        {
+          "text": "A member of armed force raped my daughter during his working time"
+        },
+        {
+          "text": "A member of security force raped my daughter during his working time"
+        },
+        {
+          "text": "A military officer rapped me"
+        },
+        {
+          "text": "An airforce official raped my daughter"
+        },
+        {
+          "text": "A navy officer raped me"
+        },
+        {
+          "text": "An male nurse in the government hospital raped my daughter when she was unconsious"
+        },
+        {
+          "text": "An male nurse in the private hospital raped my daughter when she was unconscious"
+        },
+        {
+          "text": "An military official raped my daughter"
+        },
+        {
+          "text": "A policeman within his area limit forced my daughter to have sex with him"
+        },
+        {
+          "text": "a policemen raped my daughter"
+        },
+        {
+          "text": "A police officer in the police station raped my daughter"
+        },
+        {
+          "text": "A private hospital daughter raped my daughter"
+        },
+        {
+          "text": "A private medical staff raped my daugter"
+        },
+        {
+          "text": "A supreme court judge raped my daughter"
+        },
+        {
+          "text": "In the observation home, some government staff raped my daughter"
+        },
+        {
+          "text": "In the protection home, some government staff raped my daughter"
+        },
+        {
+          "text": "In the remand home, someone raped my daughter"
+        },
+        {
+          "text": "My brother raped me"
+        },
+        {
+          "text": "My cousin raped me"
+        },
+        {
+          "text": "My father-in-law raped me"
+        },
+        {
+          "text": "My grandfather raped me"
+        },
+        {
+          "text": "Officials from the office of court of justice raped my daughter"
+        },
+        {
+          "text": "One among the officers from the court of justice raped me"
+        },
+        {
+          "text": "Someone raped my mentally retarded daughter"
+        }
+      ]
+    },
+    {
+      "intent": "Aggravatedsexualassault",
+      "examples": [
+        {
+          "text": "A group of boys touched my anus"
+        },
+        {
+          "text": "A group of boys touched my breast"
+        },
+        {
+          "text": "A group of boys touched my vagina"
+        },
+        {
+          "text": "A military officer touched my anus"
+        },
+        {
+          "text": "A military officer touched my breast"
+        },
+        {
+          "text": "A military officer touched my vagina"
+        },
+        {
+          "text": "A navy officer touched my anus"
+        },
+        {
+          "text": "A navy officer touched my breast"
+        },
+        {
+          "text": "A navy officer touched my vagina"
+        },
+        {
+          "text": "A official from the court of justice touched my anus"
+        },
+        {
+          "text": "A official from the court of justice touched my breast"
+        },
+        {
+          "text": "A official from the court of justice touched my vagina"
+        },
+        {
+          "text": "A police man touched my breast"
+        },
+        {
+          "text": "A police men touched my breast"
+        },
+        {
+          "text": "A police officer touched my anus"
+        },
+        {
+          "text": "A police officer touched my breast"
+        },
+        {
+          "text": "A police officer touched my vagina"
+        },
+        {
+          "text": "A police official touched my anus"
+        },
+        {
+          "text": "A police official touched my breast"
+        },
+        {
+          "text": "A police official touched my vagina"
+        },
+        {
+          "text": "My grandfather touched my anus"
+        },
+        {
+          "text": "My grandfather touched my breast"
+        },
+        {
+          "text": "My grandfather touched my vagina"
+        },
+        {
+          "text": "My relative touched my breast"
+        },
+        {
+          "text": "My stepfather touched my anus"
+        },
+        {
+          "text": "My stepfather touched my breast"
+        },
+        {
+          "text": "My stepfather touched my vagina"
+        },
+        {
+          "text": "One of my cousins touched my anus"
+        },
+        {
+          "text": "One of my cousins touched my breast"
+        },
+        {
+          "text": "One of my cousins touched my vagina"
+        },
+        {
+          "text": "They made sexual intents with me"
+        },
+        {
+          "text": "They touched my anus"
+        },
+        {
+          "text": "They touched my breast"
+        },
+        {
+          "text": "They touched my daughter's anus"
+        },
+        {
+          "text": "They touched my daughter's breast"
+        },
+        {
+          "text": "They touched my daughter's vagina"
+        },
+        {
+          "text": "They touched my vagina"
+        }
+      ]
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "Can you able to resolve my problems"
+        },
+        {
+          "text": "Can you help me"
+        },
+        {
+          "text": "Can you help me in sorting out my problem"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "Hello! I need some help"
+        },
+        {
+          "text": "helo"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "I need some help"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "penetration",
+      "examples": [
+        {
+          "text": "A person raped my daughter"
+        },
+        {
+          "text": "A young boy inserted his penis into my anus"
+        },
+        {
+          "text": "A young boy inserted his penis into my mouth"
+        },
+        {
+          "text": "A young boy inserted his penis into my urethra"
+        },
+        {
+          "text": "A young boy inserted his penis into my vagina"
+        },
+        {
+          "text": "He forced me to have sex with him"
+        },
+        {
+          "text": "He inserted some unknown object into my anus"
+        },
+        {
+          "text": "He inserted some unknown object into my urethra"
+        },
+        {
+          "text": "He inserted some unknown object into my vagina"
+        },
+        {
+          "text": "Inserted some unknown object into my mouth"
+        },
+        {
+          "text": "My daughter got raped"
+        },
+        {
+          "text": "Someone raped me"
+        },
+        {
+          "text": "someone raped my daughter"
+        },
+        {
+          "text": "Someone unknown person inserted his penis into my anus"
+        },
+        {
+          "text": "Someone unknown person inserted his penis into my mouth"
+        },
+        {
+          "text": "Someone unknown person inserted his penis into my urethra"
+        },
+        {
+          "text": "Some unknown person inserted his penis into my vagina"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pornography",
+      "examples": [
+        {
+          "text": "captured video of my private parts in hotel room",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "text": "some one captured my dressing video in trial room",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                30,
+                35
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone got picture of my private part",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                12,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone intentiolly captured a girl private parts"
+        },
+        {
+          "text": "some one taken video of my daughter private parts"
+        },
+        {
+          "text": "Someone took video of my daughter private parts"
+        },
+        {
+          "text": "They forced me to act in a porn movie",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                27,
+                31
+              ]
+            },
+            {
+              "entity": "porn",
+              "location": [
+                32,
+                37
+              ]
+            }
+          ]
+        },
+        {
+          "text": "They made me to act in sex movie"
+        },
+        {
+          "text": "They took a nude photo of me and posted in magazine",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                12,
+                22
+              ]
+            },
+            {
+              "entity": "porn",
+              "location": [
+                33,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "text": "They took a nude photo of me and posted in news article",
+          "mentions": [
+            {
+              "entity": "porn",
+              "location": [
+                12,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "text": "They took a nude photo of me and posted in newspaper"
+        },
+        {
+          "text": "They took a nude photo of me and posted in social media"
+        },
+        {
+          "text": "took porn video of child"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Sexualassault",
+      "examples": [
+        {
+          "text": "A men in the auto touched my anus"
+        },
+        {
+          "text": "A men in the auto touched my breast"
+        },
+        {
+          "text": "A men in the auto touched my vagina"
+        },
+        {
+          "text": "A men in the bus touched my anus"
+        },
+        {
+          "text": "A men in the bus touched my breast"
+        },
+        {
+          "text": "A men in the bus touched my vagina"
+        },
+        {
+          "text": "A men in the tempo touched my anus"
+        },
+        {
+          "text": "A men in the tempo touched my breast"
+        },
+        {
+          "text": "A men in the tempo touched my vagina"
+        },
+        {
+          "text": "An unknown person made physical contact with me without penetration"
+        },
+        {
+          "text": "A old man tried to abuse a girl",
+          "mentions": [
+            {
+              "entity": "secassault",
+              "location": [
+                19,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A police man is always abusing me"
+        },
+        {
+          "text": "He made physical contact with me without penetration"
+        },
+        {
+          "text": "My child encounters wrong touch in the bus"
+        },
+        {
+          "text": "My friend got abused by a group of people",
+          "mentions": [
+            {
+              "entity": "secassault",
+              "location": [
+                14,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Some boys are abusing me",
+          "mentions": [
+            {
+              "entity": "secassault",
+              "location": [
+                14,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The boy made me to touch his anus"
+        },
+        {
+          "text": "The boy made me to touch his penis"
+        },
+        {
+          "text": "The boys made me to touch their private parts"
+        },
+        {
+          "text": "The boys made physical contact with me without penetration"
+        },
+        {
+          "text": "The boy touched my anus"
+        },
+        {
+          "text": "The boy touched my breast"
+        },
+        {
+          "text": "The boy touched my private areas"
+        },
+        {
+          "text": "The boy touched my private parts"
+        },
+        {
+          "text": "The boy touched my vagina"
+        },
+        {
+          "text": "The bus conductor touches my anus every time he crosses me"
+        }
+      ]
+    },
+    {
+      "intent": "Sexualharrasment",
+      "examples": [
+        {
+          "text": "A boy from the other street always follows me",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                35,
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A group of boys are following me everyday when I go to school",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                20,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A group of people forced me to exhibit my physical body part",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                18,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "text": "My schoolmates are eve teasing me",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                23,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Some boys are teasing me"
+        },
+        {
+          "text": "Some guys forced me to see a sexual video format"
+        },
+        {
+          "text": "Some guys forced me to see porn videos"
+        },
+        {
+          "text": "That boy is constantly watching me",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                23,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "text": "That boy is irritating me by giving request in Facebook",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                12,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "text": "That boy is irritating me by giving request in Instagram"
+        },
+        {
+          "text": "The boys are making different sounds and teasing me",
+          "mentions": [
+            {
+              "entity": "harras",
+              "location": [
+                30,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The boys teases me by saying other boy's name"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thanking_you",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Thank you so much"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "harras",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "captured",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "following",
+          "synonyms": [
+            "follow",
+            "followed"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "follows",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "forced",
+          "synonyms": [
+            "forcing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "irritating",
+          "synonyms": [
+            "irritates"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "picture",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sounds",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "teasing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "video",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "watching",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "porn",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "captured",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "movie",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "nude",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "nude photo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "picture",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "porn",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "posted",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "video",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "secassault",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "abuse",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "abused",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "abusing",
+          "synonyms": [
+            "abuse",
+            "abused"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://chat.whatsapp.com/EKovaC89R3TFsZs1BlgMlA?lang=en",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Enter age"
+              },
+              {
+                "text": "Please enter the victim's age !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1615671872258",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1615692212707"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Enter a valid number"
+          ],
+          "selection_policy": "sequential"
+        },
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Enter a valid number"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_4_1615692213381",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1615692213416",
+      "previous_sibling": "handler_3_1615692213416"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1615692213381",
+      "context": {
+        "number": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_3_1615692213416"
+    },
+    {
+      "type": "standard",
+      "title": "penetrativeassault",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 3~Penetrative Sexual Assault\n\nPunishment:\nWhoever commits penetrative sexual assault shall be punished with imprisonment of either description for a term which shall not be less than twenty years but which may extend to imprisonment for life, and shall also be liable to fine."
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#penetration && @pene",
+      "dialog_node": "node_1_1615672721021",
+      "previous_sibling": "response_1_1625764333847"
+    },
+    {
+      "type": "standard",
+      "title": "Aggravated_penetrative",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 5~Aggravated Penetrative Sexual Assault\n\nPunishment:\nWhoever commits aggravated penetrative sexual assault shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of natural life of that person and shall also be liable to fine, or with death.\n The fine imposed shall be just and reasonable and paid to the victim to meet the medical expenses and rehabilitation of such victim\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "conditions": "#aggravated_penetration",
+      "dialog_node": "node_2_1615675060581",
+      "previous_sibling": "node_1_1615672721021"
+    },
+    {
+      "type": "standard",
+      "title": "greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " HI! I am  the LAW FINDER BOT.\n I am here to resolve your doubts or query.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1615705778179"
+    },
+    {
+      "type": "standard",
+      "title": "THANKYOU",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your welcome"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanking_you",
+      "dialog_node": "node_2_1615713773955",
+      "previous_sibling": "node_2_1615705778179"
+    },
+    {
+      "type": "standard",
+      "title": "Victim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please enter Victim's age"
+              },
+              {
+                "text": "What is the age of the Victim?"
+              },
+              {
+                "text": "Enter the Victim's age!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_2_1615705778179",
+      "conditions": "#greetings",
+      "dialog_node": "node_2_1624889767099"
+    },
+    {
+      "type": "standard",
+      "title": "Sexual_assault",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 7~Sexual Assault.\n\nPunishment:\n Whoever, commits sexual assault, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to five years, and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "conditions": "#Sexualassault || @secassault",
+      "dialog_node": "node_3_1615675085262",
+      "previous_sibling": "node_2_1615675060581"
+    },
+    {
+      "type": "standard",
+      "title": "query",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry!  POCSO act is appicable only for those who are lesser than the age of 18"
+              },
+              {
+                "text": "Sorry for the inconvience since POCSO act is not applicable for those who are greater than the age of 18"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1624889767099",
+      "conditions": "@sys-number >= 18",
+      "dialog_node": "node_4_1615671324210",
+      "previous_sibling": "node_7_1615671872258"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Enter your query"
+              },
+              {
+                "text": "Please type- in your query"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1615671872258",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "anything_else || @sys-number<18",
+      "dialog_node": "node_5_1625593854851",
+      "previous_sibling": "slot_4_1615692213381"
+    },
+    {
+      "type": "standard",
+      "title": "Sexual_harrasment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 11~Sexual Harrasment.\n\nPunishment:\nWhoever, commits sexual harassment upon a child shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "conditions": "#Sexualharrasment || @harras",
+      "dialog_node": "node_6_1624103674243",
+      "previous_sibling": "node_7_1615675181498"
+    },
+    {
+      "type": "frame",
+      "title": "query",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1624889767099",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1625593854851"
+      },
+      "conditions": "@sys-number<18",
+      "dialog_node": "node_7_1615671872258"
+    },
+    {
+      "type": "standard",
+      "title": "Aggravated_sexual",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 9~Aggravated Sexual Assault.\n\nPunishment:\nWhoever, commits aggravated sexual assault shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "conditions": "#Aggravatedsexualassault",
+      "dialog_node": "node_7_1615675181498",
+      "previous_sibling": "node_3_1615675085262"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I can't get you!"
+              },
+              {
+                "text": "Please type- in your query properly"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1625593854851"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_8_1625508552962",
+      "previous_sibling": "node_9_1615675209730"
+    },
+    {
+      "type": "standard",
+      "title": "Child_pornography",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "It is a punishable one !\nUnder Section 13~Use of child for pornographic purposes.\n\nPunishment:\nWhoever uses a child or children for pornographic purposes shall be punished with imprisonment for a term which shall not be less than five years and shall also be liable to fine and in the event of second or subsequent conviction with imprisonment for a term which shall not be less than seven years and also be liable to fine"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "conditions": "#pornography || @porno",
+      "dialog_node": "node_9_1615675209730",
+      "previous_sibling": "node_6_1624103674243"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "query": "section 3",
+            "filter": "Penetrative sexual assault",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "parent": "node_1_1615672721021",
+      "disabled": true,
+      "dialog_node": "response_10_1615691048583"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please enter your query!"
+              },
+              {
+                "text": "Enter your query!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1625593854851",
+      "disabled": true,
+      "dialog_node": "response_1_1625764331111"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1625593854851",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1625764333847",
+      "previous_sibling": "response_1_1625764331111"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1625508552962",
+      "disabled": true,
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_6_1625765913198",
+      "previous_sibling": "response_7_1625765909601"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I can't get you!"
+              },
+              {
+                "text": "Please type- in your query properly"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1625508552962",
+      "disabled": true,
+      "dialog_node": "response_7_1625765909601"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1625508552962",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1625765914415",
+      "previous_sibling": "response_6_1625765913198"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1615671872258",
+      "variable": "$number",
+      "dialog_node": "slot_4_1615692213381",
+      "previous_sibling": "handler_1_1615692212707"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "poda bokka"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "POCSO",
+  "language": "en",
+  "description": ""
+}

@@ -1,0 +1,202 @@
+
+body{
+	
+background-color:black;
+  
+  }
+
+*{
+	margin:0%;
+	padding:0%;
+	font-family: 'Rubik', sans-serif;
+	 box-sizing: border-box;
+}
+#nav
+{
+	background-color:	rgba(255,255,255,0) !important;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+ footer{
+
+    width: 100%;
+    background: #202020;
+    color: white; 
+		background-color:	rgba(0,0,0,.4) !important;
+		
+
+    
+}
+
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+
+}
+
+.container-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum1{
+    max-width: 400px;
+}
+
+.colum1 h1{
+    font-size: 22px;
+border-bottom-style: solid;
+
+}
+
+.colum1 p{
+    font-size: 18px;
+    color: #C7C7C7;
+    margin-top: 20px;
+}
+
+.colum2{
+    max-width: 400px;
+    
+}
+
+.colum2 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row img{
+    width: 36px;
+    height: 36px;
+}
+
+.row label{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #C7C7C7;
+}
+
+.colum3{
+    max-width: 400px;
+	
+}
+
+.colum3 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row2{
+    margin-top: 20px;
+    display: flex;
+	
+}
+
+#links
+{
+color:white ;	
+
+}
+#links:hover{
+color:grey;
+}
+
+.container-footer{
+    width: 100%;  
+    background: #101010;
+
+}
+
+.footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    padding: 20px;
+}
+
+.copyright{
+    color: #C7C7C7;
+		
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.information a{
+    text-decoration: none;
+    color: #C7C7C7;
+}
+.vid
+{
+	position:absolute;
+	right:0;
+	bottom:0;
+	width:auto;
+	height:auto;
+	z-index:-1;
+	min-width:100%;
+	min-height:100%;
+	
+border-color:white;
+border-width:2px;
+}
+#cont p{
+	font-size:20px;
+	text-shadow:0 0 5px #FFFFFF!important ;
+}
+#cont h1
+{
+text-shadow:0 0 5px #FFFFFF,0 0 1px#FFFFFF !important ;
+margin-top:8px;
+border-bottom-style:solid;
+border-bottom-color:white;
+
+}
+#cont{
+		background-color:	rgba(0,0,0,.8) !important;
+		border-radius:	28px;
+		padding-bottom:80px !important;
+		color:white;
+}
+#cont:hover{
+	box-shadow:8px 8px 15px rgba(0,0,0,.6) ;
+	transition:.2s;
+}
+.btn
+{
+
+font-family: 'Rubik', sans-serif;
+font-weight:bold;
+}
+.btn:hover
+{
+	background:white;
+	color:black !important;
+	box-shadow:0 0 5px #FFFFFF,0 0 20px#FFFFFF ;
+}
+	
+
+

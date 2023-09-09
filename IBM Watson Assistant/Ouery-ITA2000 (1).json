@@ -1,0 +1,791 @@
+{
+  "intents": [
+    {
+      "intent": "Damage",
+      "examples": [
+        {
+          "text": "He gained access to my computer network without my permission"
+        },
+        {
+          "text": "He gained access to my computer without my knowledge"
+        },
+        {
+          "text": "Someone collected data from my computer",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                8,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone contaminated my computer with computer system",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                8,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone downloaded data from my computer without my permission",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                8,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone entered into my computer system and downloaded my data"
+        },
+        {
+          "text": "Someone extracted data from my computer"
+        },
+        {
+          "text": "Someone gained access into my computer and copied data from it"
+        },
+        {
+          "text": "Someone gained access into my computer and extracted data from it"
+        },
+        {
+          "text": "Someone gained access to my computer system without my permissionn"
+        },
+        {
+          "text": "Someone gained access to my computer without my knowledge"
+        },
+        {
+          "text": "Someone introduced computer virus into my computer system",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                28,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone introduced virus into my computer"
+        },
+        {
+          "text": "Someone unknown person entered into my computer network"
+        },
+        {
+          "text": "Some unknown person created disruption in my computer",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                28,
+                38
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Some unknown person disrupted my computer",
+          "mentions": [
+            {
+              "entity": "sec43",
+              "location": [
+                20,
+                29
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Damsource",
+      "examples": [
+        {
+          "text": "Someone altered my source code",
+          "mentions": [
+            {
+              "entity": "daso",
+              "location": [
+                8,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone destroyed my source code",
+          "mentions": [
+            {
+              "entity": "daso",
+              "location": [
+                8,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone is stealing my source code",
+          "mentions": [
+            {
+              "entity": "daso",
+              "location": [
+                11,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone theft my computer source code",
+          "mentions": [
+            {
+              "entity": "daso",
+              "location": [
+                8,
+                13
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DigSig",
+      "examples": [
+        {
+          "text": "A company is creating duplicate certificates",
+          "mentions": [
+            {
+              "entity": "DISi",
+              "location": [
+                22,
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A company is creating fake certificates",
+          "mentions": [
+            {
+              "entity": "DISi",
+              "location": [
+                22,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "text": "A friend of mine created a false digital signature certificate",
+          "mentions": [
+            {
+              "entity": "DISi",
+              "location": [
+                27,
+                50
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Some person created false certificates which is digitally signed by higher authority",
+          "mentions": [
+            {
+              "entity": "DISi",
+              "location": [
+                48,
+                64
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "Can you able to resolve my problems"
+        },
+        {
+          "text": "Can you help me in resolving my problems"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good night"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Hacking",
+      "examples": [
+        {
+          "text": "My lap got tracked"
+        },
+        {
+          "text": "Someone hacked my celphone"
+        },
+        {
+          "text": "Someone hacked my computer"
+        },
+        {
+          "text": "Someone hacked my computer os"
+        },
+        {
+          "text": "Someone hacked my computer system",
+          "mentions": [
+            {
+              "entity": "hack",
+              "location": [
+                8,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone hacked my mobile"
+        },
+        {
+          "text": "Someone hacked my mobile phone"
+        },
+        {
+          "text": "Someone hacked my phone"
+        },
+        {
+          "text": "Someone hacked my system"
+        },
+        {
+          "text": "Someone is tracking my computer"
+        },
+        {
+          "text": "Someone unknown person tried to enter into computer",
+          "mentions": [
+            {
+              "entity": "hack",
+              "location": [
+                32,
+                37
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone unknown person tried to enter into computer system"
+        },
+        {
+          "text": "Someone unknown person tried to hack my cellphone"
+        },
+        {
+          "text": "Someone unknown person tried to hack my computer"
+        },
+        {
+          "text": "Someone unknown person tried to hack my mobile"
+        },
+        {
+          "text": "Someone unknown person tried to hack my mobile phone",
+          "mentions": [
+            {
+              "entity": "hack",
+              "location": [
+                32,
+                36
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Publishing",
+      "examples": [
+        {
+          "text": "Someone morphed my image and leaked in social media",
+          "mentions": [
+            {
+              "entity": "pub",
+              "location": [
+                8,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone published irrelevant data of mine in social media",
+          "mentions": [
+            {
+              "entity": "pub",
+              "location": [
+                8,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone published obscene data in social media",
+          "mentions": [
+            {
+              "entity": "pub",
+              "location": [
+                8,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone spreading bad comments about me in social media",
+          "mentions": [
+            {
+              "entity": "pub",
+              "location": [
+                8,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Someone spreading rumor about me in internet",
+          "mentions": [
+            {
+              "entity": "pub",
+              "location": [
+                8,
+                17
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thankyou",
+      "examples": [
+        {
+          "text": "Great experience, Thank you"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "You have solved all my problems"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "daso",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "altered",
+          "synonyms": [
+            "alter",
+            "altering"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "destroyed",
+          "synonyms": [
+            "destroy",
+            "destroying"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "stealing",
+          "synonyms": [
+            "steal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "theft",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "DISi",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "digitally signed",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "duplicate certificates",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "fake certificates",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "false digital signature",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "hack",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "enter",
+          "synonyms": [
+            "entered",
+            "entering"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hack",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hacked",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Phished",
+          "synonyms": [
+            "phishing"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "pub",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "meme",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "morphed",
+          "synonyms": [
+            "morph",
+            "morphing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "post",
+          "synonyms": [
+            "posted",
+            "posting"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "published",
+          "synonyms": [
+            "publish",
+            "publishing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "published irrelevant data",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "spreading",
+          "synonyms": [
+            "spread"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "spreading bad comments",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sec43",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "collected data",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "contaminated",
+          "synonyms": [
+            "contaminate",
+            "contamination"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "disrupted",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "disruption",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "downloaded",
+          "synonyms": [
+            "download"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Malware",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "virus",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome"
+              },
+              {
+                "text": "It's my pleasure"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thankyou",
+      "dialog_node": "Anything else",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Publishing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes! It is a punishable one.\nUnder section 67- Publishing of information which is obscene in electronic form\n\nThey shall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to one lakh rupees and in the event of a second or subsequent conviction with imprisonment of either description for a term which may extend to ten years and also with fine which may extend to two lakh rupees. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#Publishing || @pub",
+      "dialog_node": "node_10_1625609029487",
+      "previous_sibling": "node_6_1625608196728"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes! It is a punishable one.\nUnder section 43-Penalty for damage to computer, computer system\n\nHe shall be liable to pay damages by way of compensation not exceeding one crore rupees to the person so affected. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#Damage || @sec43",
+      "dialog_node": "node_2_1625159982270",
+      "previous_sibling": "node_7_1625159987427"
+    },
+    {
+      "type": "standard",
+      "title": "DamSource",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes! It is a punishable one.\nUnder section 65-Tampering with computer  source documents\n\nThey, shall be punishable with imprisonment up to three years, or with fine which may extend up to two lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#Damsource || @daso",
+      "dialog_node": "node_6_1625608196728",
+      "previous_sibling": "node_2_1625159982270"
+    },
+    {
+      "type": "standard",
+      "title": "Hacking",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder Section 66-Hacking with computer system.\n\nWhoever commits hacking shall be punished with imprisonment up to three years, or with fine which may extend up to two lakh rupees, or with both."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#Hacking || @hack",
+      "dialog_node": "node_7_1625159987427"
+    },
+    {
+      "type": "standard",
+      "title": "DigitalSig",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes! It is a punishable one.\nUnder section 73-Penalty for publishing Digital Signature Certificate false in certain particulars. \n\nThey shall be punished with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#DigSig && @DISi",
+      "dialog_node": "node_7_1625609538553",
+      "previous_sibling": "node_10_1625609029487"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi! I am the LAW FINDER bot!\nI am here to resolve your doubts and queries"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please Enter your query!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#greetings",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "ITA2000",
+  "language": "en",
+  "description": ""
+}

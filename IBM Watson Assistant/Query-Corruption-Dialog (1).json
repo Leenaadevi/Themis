@@ -1,0 +1,641 @@
+{
+  "intents": [
+    {
+      "intent": "Abetment",
+      "examples": [
+        {
+          "text": "He forced me to give bribe to the higher authority"
+        },
+        {
+          "text": "He forced me to give bribe to the IAS"
+        },
+        {
+          "text": "He forced me to give bribe to the MLA"
+        },
+        {
+          "text": "He forced me to give bribe to the police"
+        },
+        {
+          "text": "He forced me to give bribe to the talhsildar"
+        },
+        {
+          "text": "He forced me to give bribe to the village officer"
+        },
+        {
+          "text": "I saw a man forcing the other one to give bribe to a higher official"
+        },
+        {
+          "text": "I saw a man forcing the other one to give bribe to the college management to get a seat"
+        },
+        {
+          "text": "I saw a man forcing the other one to give bribe to the school management to get a seat"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "bribegiver",
+      "examples": [
+        {
+          "text": "I saw a man gifting a amount of money to the college management to get a seat",
+          "mentions": [
+            {
+              "entity": "brigi",
+              "location": [
+                12,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a man giving bribe to a constable"
+        },
+        {
+          "text": "I saw a man giving bribe to a IAS"
+        },
+        {
+          "text": "I saw a man giving bribe to a Indian Administration Officer",
+          "mentions": [
+            {
+              "entity": "brigi",
+              "location": [
+                12,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a man giving bribe to a police officer"
+        },
+        {
+          "text": "I saw a man giving bribe to a SI"
+        },
+        {
+          "text": "I saw a man giving bribe to the college management to get a seat"
+        },
+        {
+          "text": "I saw a man giving bribe to the school management to get a seat"
+        },
+        {
+          "text": "I saw a man offering a bribe to the college management to get a seat",
+          "mentions": [
+            {
+              "entity": "brigi",
+              "location": [
+                12,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "text": "The police officer was given a bribe for completing the task"
+        },
+        {
+          "text": "The public servant was given a bribe for completing the desired work"
+        },
+        {
+          "text": "The public servant was given a bribe for completing the task"
+        },
+        {
+          "text": "The Tahlsildar was given a bribe for completing the task"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Commercialbribe",
+      "examples": [
+        {
+          "text": "I saw a constable getting bribe from a commercial organization",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                39,
+                62
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a IAS getting bribe from a commercial organization"
+        },
+        {
+          "text": "I saw a Indian Administration Officer getting bribe from a commercial organization"
+        },
+        {
+          "text": "I saw a police officer getting bribe from a commercial organization"
+        },
+        {
+          "text": "I saw a public servant getting bribe from a commercial organization"
+        },
+        {
+          "text": "I saw a public servant getting bribe from a company",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                44,
+                51
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public servant getting bribe from a factory",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                44,
+                51
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public servant getting bribe from a MNC",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                44,
+                47
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public servant getting bribe from a Multi National Corporation",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                44,
+                70
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public servant getting bribe from a private sector",
+          "mentions": [
+            {
+              "entity": "combri",
+              "location": [
+                44,
+                58
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public SI getting bribe from a commercial organization"
+        },
+        {
+          "text": "I saw a Tahlsildar getting bribe from a commercial organization"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CriminalMisconduct",
+      "examples": [
+        {
+          "text": "The present MLA of my area is using the government resource for his own use"
+        },
+        {
+          "text": "The present SI of my nearby police station is gathering government resource for his family use"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Can you able to resolve my Query?"
+        },
+        {
+          "text": "Can you able to sort my issue?"
+        },
+        {
+          "text": "Good Evening"
+        },
+        {
+          "text": "Good Morning"
+        },
+        {
+          "text": "Good Night"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Help me in resolving my problem"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "I have an issue, Can you help me?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "habitualoffender",
+      "examples": [
+        {
+          "text": "If a person goes to jail for bribing, and again he commits the same offence. Is it a punishable one?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "servantbribe",
+      "examples": [
+        {
+          "text": "I saw a government employee collecting bribe from the people",
+          "mentions": [
+            {
+              "entity": "serbri",
+              "location": [
+                28,
+                38
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a IAS officer getting money from the people",
+          "mentions": [
+            {
+              "entity": "serbri",
+              "location": [
+                20,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a Indian Administrative Officer getting money from the people"
+        },
+        {
+          "text": "I saw an constable getting bribe from people"
+        },
+        {
+          "text": "I saw an police officer getting bribe from people"
+        },
+        {
+          "text": "I saw an police SI getting bribe from people"
+        },
+        {
+          "text": "I saw a police receiving bribe from the public",
+          "mentions": [
+            {
+              "entity": "serbri",
+              "location": [
+                15,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I saw a public servant getting money from the people"
+        },
+        {
+          "text": "I saw a tahlsildar getting money from the people"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thankyou",
+      "examples": [
+        {
+          "text": "I am glad for your responce"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "brigi",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "gifting",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "giving",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "offering",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "combri",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "commercial organization",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "company",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "factory",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "MNC",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Multi National Corporation",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "private sector",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "serbri",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "collecting",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "getting",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "receiving",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Enter your query"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#Greetings",
+      "dialog_node": "node_2_1625601416080"
+    },
+    {
+      "type": "standard",
+      "title": "habitualoffender",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder section 14-Punishment for habitual offender!\n\nWhoever convicted of an offence under this Act subsequently commits an offence punishable under this Act, shall be punishable with imprisonment for a term which shall not be less than 5 years but which may extend to ten years and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#habitualoffender",
+      "dialog_node": "node_3_1624990376371",
+      "previous_sibling": "node_5_1624989913694"
+    },
+    {
+      "type": "standard",
+      "title": "servantbribe",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder section 7-Offence relating to public servant being bribed!\n\nThey shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to seven years and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#servantbribe || @serbri",
+      "dialog_node": "node_4_1624986612752"
+    },
+    {
+      "type": "standard",
+      "title": "Abetment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder section 12 - Punishment for abetment of offences\n\nWhoever abets any offence punishable under this Act, whether or not that offence is committed in consequence of that abetment, shall be punishable with imprisonment for a term which shall not be less than three years, but which may extend to seven years and shall also be liable to fine."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#Abetment",
+      "dialog_node": "node_4_1624989810462",
+      "previous_sibling": "node_8_1624986634958"
+    },
+    {
+      "type": "standard",
+      "title": "Criminalmisconduct",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder section 13- Criminal misconduct by a public servant!\n\nAny public servant who commits criminal misconduct shall be punishable with imprisonment for a term which shall be not less than  4 years but which may extend to  10 years and shall also be liable to fine. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#CriminalMisconduct",
+      "dialog_node": "node_5_1624989913694",
+      "previous_sibling": "node_4_1624989810462"
+    },
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your welcome"
+              },
+              {
+                "text": "No mention"
+              },
+              {
+                "text": "It's my pleasure"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thankyou",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1625601729585",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one!\nUnder section 8-Offence relating to bribing of a public servant!\n\nThey shall be punishable with imprisonment for a term which may extend to seven years or with fine or with both"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#bribegiver || @brigi",
+      "dialog_node": "node_8_1624986631744",
+      "previous_sibling": "node_4_1624986612752"
+    },
+    {
+      "type": "standard",
+      "title": "Commercialbribe",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, It is a punishable one.\nUnder section 10- Person in charge of commercial organization to be guilty of offence!\n\nThey shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to seven years and shall also be liable to fine"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1625601416080",
+      "conditions": "#Commercialbribe || @combri",
+      "dialog_node": "node_8_1624986634958",
+      "previous_sibling": "node_8_1624986631744"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am  the LAW FINDER BOT. I am here to resolve your doubts or query."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1625601416080"
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Corruption Dialog",
+  "language": "en",
+  "description": ""
+}

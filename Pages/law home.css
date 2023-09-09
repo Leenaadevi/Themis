@@ -1,0 +1,216 @@
+
+*{
+	margin:0%;
+	padding:0%;
+	font-family: 'Rubik', sans-serif;
+	 box-sizing: border-box;
+}
+body{
+	background-image:url(/THEMIS/Images/Law-home/law.jpg);
+	background-size:cover; 
+	background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center center;
+
+  
+  }
+
+
+.btn
+{
+
+font-family: 'Rubik', sans-serif;
+font-weight:bold;
+}
+.btn:hover
+{
+	background:white;
+	color:black !important;
+	box-shadow:0 0 5px #FFFFFF,0 0 20px#FFFFFF ;
+}
+footer{
+
+    width: 100%;
+    background: #202020;
+    color: white; 
+		background-color:	rgba(0,0,0,.8) !important;
+	
+    
+}
+
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+
+}
+
+.container-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum1{
+    max-width: 400px;
+}
+
+.colum1 h1{
+    font-size: 22px;
+border-bottom-style: solid;
+
+}
+
+.colum1 p{
+    font-size: 18px;
+    color: #C7C7C7;
+    margin-top: 20px;
+}
+
+.colum2{
+    max-width: 400px;
+    
+}
+
+.colum2 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row img{
+    width: 36px;
+    height: 36px;
+}
+
+.row label{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #C7C7C7;
+}
+
+.colum3{
+    max-width: 400px;
+	
+}
+
+.colum3 h1{
+    font-size: 22px;
+	border-bottom-style: solid;
+
+}
+
+.row2{
+    margin-top: 20px;
+    display: flex;
+	
+}
+
+#links
+{
+color:white ;	
+
+}
+#links:hover{
+color:grey;
+}
+
+.container-footer{
+    width: 100%;  
+    background: #101010;
+
+}
+
+.footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    padding: 20px;
+}
+
+.copyright{
+    color: #C7C7C7;
+		
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.information a{
+    text-decoration: none;
+    color: #C7C7C7;
+}
+
+
+
+
+.card
+{
+	background:transparent;
+	  border-radius:60px;
+}
+#bg-1
+{				height:630px !important;
+		background-image:url(/THEMIS/Images/Law-home/pexels-juan-pablo-serrano-arenas-1161268@2x.png);
+			background-size:cover; 
+	background-repeat:no-repeat;
+   background-position:center center;
+   border-radius:60px;
+   transition:0.5s ease;
+    
+}
+#bg-1:hover
+{	transform:scale(1.05);
+	box-shadow:5px 5px 15px rgba(0,0,0,.6);
+}
+#bg-2
+{				height:630px !important;
+		background-image:url(/THEMIS/Images/Law-home/rear-view-programmer-working-all-night-long@2x.png);
+			background-size:cover; 
+	background-repeat:no-repeat;
+   background-position:center center;
+   border-radius:60px;
+   transition:0.5s ease;
+    
+}
+#bg-2:hover
+{	transform:scale(1.05);
+	box-shadow:5px 5px 15px rgba(0,0,0,.6);
+}
+#bg-3
+{			height:630px !important;
+		background-image:url(/THEMIS/Images/Law-home/istockphoto-1136060778-612x612@2x.png);
+			background-size:cover; 
+	background-repeat:no-repeat;
+   background-position:center center;
+   border-radius:60px;
+   transition:0.5s ease;
+    
+}
+#bg-3:hover
+{	transform:scale(1.05);
+	box-shadow:5px 5px 15px rgba(0,0,0,.6);
+}
+#lawbtn
+{	background-color:	rgba(225,225,225,.5) !important;
+	border-color:white !important;
+	font-weight:bold;
+	font-family:arial  !important;
+	font-size:18px;	
+	
+	
+
+}
+#lawbtn:hover
+{background-color:white !important;
+
+}

@@ -1,0 +1,1959 @@
+{
+  "intents": [
+    {
+      "intent": "sec1",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "sec 1"
+        },
+        {
+          "text": "section 1"
+        },
+        {
+          "text": "tell me about section 1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec10",
+      "examples": [
+        {
+          "text": "10"
+        },
+        {
+          "text": "sec 10"
+        },
+        {
+          "text": "section 10"
+        },
+        {
+          "text": "tell me about section 10"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec11",
+      "examples": [
+        {
+          "text": "11"
+        },
+        {
+          "text": "sec 11"
+        },
+        {
+          "text": "section 11"
+        },
+        {
+          "text": "tell me about section 11"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec12",
+      "examples": [
+        {
+          "text": "12"
+        },
+        {
+          "text": "sec 12"
+        },
+        {
+          "text": "section 12"
+        },
+        {
+          "text": "tell me about section 12"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec13",
+      "examples": [
+        {
+          "text": "13"
+        },
+        {
+          "text": "sec13"
+        },
+        {
+          "text": "section 13"
+        },
+        {
+          "text": "tell me about section 13"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec14",
+      "examples": [
+        {
+          "text": "14"
+        },
+        {
+          "text": "sec14"
+        },
+        {
+          "text": "section 14"
+        },
+        {
+          "text": "tell me about section 14"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec15",
+      "examples": [
+        {
+          "text": "15"
+        },
+        {
+          "text": "sec 15"
+        },
+        {
+          "text": "section 15"
+        },
+        {
+          "text": "tell me about section 15"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec16",
+      "examples": [
+        {
+          "text": "16"
+        },
+        {
+          "text": "sec 16"
+        },
+        {
+          "text": "section 16"
+        },
+        {
+          "text": "tell me about section 16"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec17",
+      "examples": [
+        {
+          "text": "17"
+        },
+        {
+          "text": "sec 17"
+        },
+        {
+          "text": "section 17"
+        },
+        {
+          "text": "tell me about section 17"
+        }
+      ]
+    },
+    {
+      "intent": "sec18",
+      "examples": [
+        {
+          "text": "18"
+        },
+        {
+          "text": "sec 18"
+        },
+        {
+          "text": "section 18"
+        },
+        {
+          "text": "tell me about section 18"
+        }
+      ]
+    },
+    {
+      "intent": "sec19",
+      "examples": [
+        {
+          "text": "19"
+        },
+        {
+          "text": "sec 19"
+        },
+        {
+          "text": "section 19"
+        },
+        {
+          "text": "tell me about section 19"
+        }
+      ]
+    },
+    {
+      "intent": "sec2",
+      "examples": [
+        {
+          "text": "sec 2"
+        },
+        {
+          "text": "section 2"
+        },
+        {
+          "text": "tell me about section 2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec20",
+      "examples": [
+        {
+          "text": "20"
+        },
+        {
+          "text": "sec 20"
+        },
+        {
+          "text": "section 20"
+        },
+        {
+          "text": "tell me about section 20"
+        }
+      ]
+    },
+    {
+      "intent": "sec21",
+      "examples": [
+        {
+          "text": "21"
+        },
+        {
+          "text": "sec 21"
+        },
+        {
+          "text": "section 21"
+        },
+        {
+          "text": "tell me about section 21"
+        }
+      ]
+    },
+    {
+      "intent": "sec22",
+      "examples": [
+        {
+          "text": "22"
+        },
+        {
+          "text": "sec 22"
+        },
+        {
+          "text": "section 22"
+        },
+        {
+          "text": "tell me about section 22"
+        }
+      ]
+    },
+    {
+      "intent": "sec23",
+      "examples": [
+        {
+          "text": "23"
+        },
+        {
+          "text": "sec 23"
+        },
+        {
+          "text": "section 23"
+        },
+        {
+          "text": "tell me about section 23"
+        }
+      ]
+    },
+    {
+      "intent": "sec24",
+      "examples": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "sec 24"
+        },
+        {
+          "text": "section 24"
+        },
+        {
+          "text": "tell me about section 24"
+        }
+      ]
+    },
+    {
+      "intent": "sec25",
+      "examples": [
+        {
+          "text": "25"
+        },
+        {
+          "text": "sec 25"
+        },
+        {
+          "text": "section 25"
+        },
+        {
+          "text": "tell me about section 25"
+        }
+      ]
+    },
+    {
+      "intent": "sec26",
+      "examples": [
+        {
+          "text": "26"
+        },
+        {
+          "text": "sec 26"
+        },
+        {
+          "text": "section 26"
+        },
+        {
+          "text": "tell me about section 26"
+        }
+      ]
+    },
+    {
+      "intent": "sec27",
+      "examples": [
+        {
+          "text": "27"
+        },
+        {
+          "text": "sec 27"
+        },
+        {
+          "text": "section 27"
+        },
+        {
+          "text": "tell me about section 27"
+        }
+      ]
+    },
+    {
+      "intent": "sec28",
+      "examples": [
+        {
+          "text": "28"
+        },
+        {
+          "text": "sec 28"
+        },
+        {
+          "text": "section 28"
+        },
+        {
+          "text": "tell me about section 28"
+        }
+      ]
+    },
+    {
+      "intent": "sec29",
+      "examples": [
+        {
+          "text": "29"
+        },
+        {
+          "text": "sec 29"
+        },
+        {
+          "text": "section 29"
+        },
+        {
+          "text": "tell me about section 29"
+        }
+      ]
+    },
+    {
+      "intent": "sec3",
+      "examples": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "sec3"
+        },
+        {
+          "text": "section 3"
+        },
+        {
+          "text": "tell me about section 3"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec30",
+      "examples": [
+        {
+          "text": "30"
+        },
+        {
+          "text": "sec 30"
+        },
+        {
+          "text": "section 30"
+        },
+        {
+          "text": "tell me about section 30"
+        }
+      ]
+    },
+    {
+      "intent": "sec31",
+      "examples": [
+        {
+          "text": "31"
+        },
+        {
+          "text": "sec 31"
+        },
+        {
+          "text": "section 31"
+        },
+        {
+          "text": "tell me about section 31"
+        }
+      ]
+    },
+    {
+      "intent": "sec32",
+      "examples": [
+        {
+          "text": "32"
+        },
+        {
+          "text": "sec 32"
+        },
+        {
+          "text": "section 32"
+        },
+        {
+          "text": "tell me about section 32"
+        }
+      ]
+    },
+    {
+      "intent": "sec33",
+      "examples": [
+        {
+          "text": "33"
+        },
+        {
+          "text": "sec 33"
+        },
+        {
+          "text": "section 33"
+        },
+        {
+          "text": "tell me about section 33"
+        }
+      ]
+    },
+    {
+      "intent": "sec34",
+      "examples": [
+        {
+          "text": "34"
+        },
+        {
+          "text": "sec 34"
+        },
+        {
+          "text": "section 34"
+        },
+        {
+          "text": "tell me about section 34"
+        }
+      ]
+    },
+    {
+      "intent": "sec35",
+      "examples": [
+        {
+          "text": "35"
+        },
+        {
+          "text": "sec 35"
+        },
+        {
+          "text": "section 35"
+        },
+        {
+          "text": "tell me about section 35"
+        }
+      ]
+    },
+    {
+      "intent": "sec36",
+      "examples": [
+        {
+          "text": "36"
+        },
+        {
+          "text": "sec 36"
+        },
+        {
+          "text": "section 36"
+        },
+        {
+          "text": "tell me about section 36"
+        }
+      ]
+    },
+    {
+      "intent": "sec37",
+      "examples": [
+        {
+          "text": "37"
+        },
+        {
+          "text": "sec 37"
+        },
+        {
+          "text": "section 37"
+        },
+        {
+          "text": "tell me about section 37"
+        }
+      ]
+    },
+    {
+      "intent": "sec38",
+      "examples": [
+        {
+          "text": "38"
+        },
+        {
+          "text": "sec 38"
+        },
+        {
+          "text": "section 38"
+        },
+        {
+          "text": "tell me about section 38"
+        }
+      ]
+    },
+    {
+      "intent": "sec39",
+      "examples": [
+        {
+          "text": "39"
+        },
+        {
+          "text": "sec 39"
+        },
+        {
+          "text": "section 39"
+        },
+        {
+          "text": "tell me about section 39"
+        }
+      ]
+    },
+    {
+      "intent": "sec4",
+      "examples": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "sec 4"
+        },
+        {
+          "text": "section 4"
+        },
+        {
+          "text": "tell me about section 4"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec40",
+      "examples": [
+        {
+          "text": "40"
+        },
+        {
+          "text": "sec 40"
+        },
+        {
+          "text": "section 40"
+        },
+        {
+          "text": "tell me about section 40"
+        }
+      ]
+    },
+    {
+      "intent": "sec41",
+      "examples": [
+        {
+          "text": "41"
+        },
+        {
+          "text": "sec 41"
+        },
+        {
+          "text": "section 41"
+        },
+        {
+          "text": "tell me about section 41"
+        }
+      ]
+    },
+    {
+      "intent": "sec42",
+      "examples": [
+        {
+          "text": "42"
+        },
+        {
+          "text": "sec 42"
+        },
+        {
+          "text": "section 42"
+        },
+        {
+          "text": "tell me about section 42"
+        }
+      ]
+    },
+    {
+      "intent": "sec43",
+      "examples": [
+        {
+          "text": "43"
+        },
+        {
+          "text": "sec 43"
+        },
+        {
+          "text": "section 43"
+        },
+        {
+          "text": "tell me about section 43"
+        }
+      ]
+    },
+    {
+      "intent": "sec44",
+      "examples": [
+        {
+          "text": "44"
+        },
+        {
+          "text": "sec 44"
+        },
+        {
+          "text": "section 44"
+        },
+        {
+          "text": "tell me about section 44"
+        }
+      ]
+    },
+    {
+      "intent": "sec45",
+      "examples": [
+        {
+          "text": "45"
+        },
+        {
+          "text": "sec 45"
+        },
+        {
+          "text": "section 45"
+        },
+        {
+          "text": "tell me about section 45"
+        }
+      ]
+    },
+    {
+      "intent": "sec46",
+      "examples": [
+        {
+          "text": "46"
+        },
+        {
+          "text": "sec 46"
+        },
+        {
+          "text": "section 46"
+        },
+        {
+          "text": "tell me about section 46"
+        }
+      ]
+    },
+    {
+      "intent": "sec47",
+      "examples": [
+        {
+          "text": "47"
+        },
+        {
+          "text": "sec 47"
+        },
+        {
+          "text": "section 47"
+        },
+        {
+          "text": "tell me about section 47"
+        }
+      ]
+    },
+    {
+      "intent": "sec48",
+      "examples": [
+        {
+          "text": "48"
+        },
+        {
+          "text": "sec 48"
+        },
+        {
+          "text": "section 48"
+        },
+        {
+          "text": "tell me about section 48"
+        }
+      ]
+    },
+    {
+      "intent": "sec5",
+      "examples": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "sec 5"
+        },
+        {
+          "text": "section 5"
+        },
+        {
+          "text": "tell me about section 5"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec6",
+      "examples": [
+        {
+          "text": "6"
+        },
+        {
+          "text": "sec 6"
+        },
+        {
+          "text": "section 6"
+        },
+        {
+          "text": "tell me about section 6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec7",
+      "examples": [
+        {
+          "text": "7"
+        },
+        {
+          "text": "sec 7"
+        },
+        {
+          "text": "section 7"
+        },
+        {
+          "text": "tell me about section 7"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec8",
+      "examples": [
+        {
+          "text": "8"
+        },
+        {
+          "text": "sec 8"
+        },
+        {
+          "text": "section 8"
+        },
+        {
+          "text": "tell me about section 8"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sec9",
+      "examples": [
+        {
+          "text": "9"
+        },
+        {
+          "text": "sec 9"
+        },
+        {
+          "text": "section 9"
+        },
+        {
+          "text": "tell me about section 9"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thankyou",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "Its a nice experience"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you for your valuable information"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "welcome",
+      "examples": [
+        {
+          "text": "Can you fetch me details?"
+        },
+        {
+          "text": "Can you help me"
+        },
+        {
+          "text": "Can you help me?"
+        },
+        {
+          "text": "Can you help me resolve my doubt"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "I have a doubt"
+        },
+        {
+          "text": "I need an information"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you"
+              },
+              {
+                "text": "It's my pleasure to help you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thankyou",
+      "dialog_node": "Anything else",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "sec 8",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  8\n\nPunishment for sexual assault\nWhoever, commits sexual assault, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to five years, and shall also be liable to fine.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec8",
+      "dialog_node": "node_10_1624112839525",
+      "previous_sibling": "node_2_1624112807359"
+    },
+    {
+      "type": "standard",
+      "title": "sec 16",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  16\n   \nAbetment of an offence\nA person abets an offence, who--\nFirst.-- Instigates any person to do that offence; or\nSecondly.-- Engages with one or more other person or persons in any conspiracy for the doing of that offence, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that offence; or\nThirdly.-- Intentionally aids, by any act or illegal omission, the doing of that offence.\nExplanation I.--A person who, by wilful misrepresentation, or by wilful concealment of a material fact, which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure a thing to be done, is said to instigate the doing of that offence.\nExplanation II.--Whoever, either prior to or at the time of commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.\nExplanation III.--Whoever employ, harbours, receives or transports a child, by means of threat or use of force or other forms of coercion, abduction, fraud, deception, abuse of power or of a position, vulnerability or the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of any offence under this Act, is said to aid the doing of that act.\n\n\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec16",
+      "dialog_node": "node_10_1624113275247",
+      "previous_sibling": "node_8_1624113081022"
+    },
+    {
+      "type": "standard",
+      "title": "sec 25",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  25 \n  \nRecording of statement of a child by Magistrate\nIf the statement of the child is being recorded under sec onesixthyfour  of the Code of Criminal Procedure, (herein referred to as the Code), the Magistrate recording such statement shall, notwithstanding anything contained therein, record the statement as spoken by the child:\nProvided that the provisions contained in the first proviso  of the Code shall, so far it permits the presence of the advocate of the accused shall not apply in this case.\n The Magistrate shall provide to the child and his parents or his representative, a copy of the document specified  of the Code, upon the final report being filed by the police  of that Code.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec25",
+      "dialog_node": "node_10_1624119918938",
+      "previous_sibling": "node_7_1624119917554"
+    },
+    {
+      "type": "standard",
+      "title": "sec 39",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section 39 \n  \nGuidelines for child to take assistance of experts\nSubject to such rules as may be made in this behalf, the State Government shall prepare guidelines for use of non-governmental organisations, professionals and experts or persons having knowledge of psychology, social work, physical health, mental health and child development to be associated with the pre-trial and trial stage to assist the child.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec39",
+      "dialog_node": "node_10_1624122229518",
+      "previous_sibling": "node_8_1624122090361"
+    },
+    {
+      "type": "standard",
+      "title": "sec 42",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  42\n   \nAlternative punishment\n Alternate punishment.-- Where an act or omission constitutes an offence punishable under this Act and also  of the Indian Penal Code  of the Information Technology Act   then, notwithstanding anything contained in any law for the time being in force, the offender found guilty of such offence shall be liable to punishment only under this Act or under the Indian Penal Code as provides for punishment which is greater in degree.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec42",
+      "dialog_node": "node_10_1624122452647",
+      "previous_sibling": "node_1_1624122232686"
+    },
+    {
+      "type": "standard",
+      "title": "sec 45",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  45 \n  \nPower to make rules\nThe Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.\n In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:--\n(a) the manner of deleting or destroying or reporting about pornographic material in any form involving a child to the designated authority;\n(aa) the manner of reporting about pornographic material in any form involving a child \nthe qualifications and experience of, and the fees payable to, a translator or an interpreter, a special educator or any person familiar with the manner of communication of the child or an expert in that field, (b) care and protection and emergency medical treatment of the child \n(c) the payment of compensation;\n(d) the manner of periodic monitoring of the provisions of the Act.\nEvery rule made under this sec shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec45",
+      "dialog_node": "node_10_1624122642537",
+      "previous_sibling": "node_8_1624122453683"
+    },
+    {
+      "type": "standard",
+      "title": "sec 13",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  13\n   \nUse of child for pornographic purposes\nWhoever, uses a child in any form of media (including programme or advertisement telecast by television channels or internet or any other electronic form or printed form, whether or not such programme or advertisement is intended for personal use or for distribution), for the purposes of sexual gratification, which includes--\n representation of the sexual organs of a child;\n usage of a child engaged in real or simulated sexual acts (with or without penetration);\nthe indecent or obscene representation of a child,\nshall be guilty of the offence of using a child for pornographic purposes.\nExplanation.--For the purposes of this sec, the expression ''use a child'' shall include involving a child through any medium like print, electronic, computer or any other technology for preparation, production, offering, transmitting, publishing, facilitation and distribution of the pornographic material.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec13",
+      "dialog_node": "node_1_1624113058381",
+      "previous_sibling": "node_4_1624113052421"
+    },
+    {
+      "type": "standard",
+      "title": "sec 18",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  18\n   \nPunishment for attempt to commit an offence\nWhoever attempts to commit any offence punishable under this Act or to cause such an offence to be committed, and in such attempt, does any act towards the commission of the offence, shall be punished with imprisonment of any description provided for the offence, for a term which may extend to one half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence or with fine or with both.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec18",
+      "dialog_node": "node_1_1624113287059",
+      "previous_sibling": "node_9_1624113281927"
+    },
+    {
+      "type": "standard",
+      "title": "sec 19",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  19\n   \nReporting of offences\n Notwithstanding anything contained in the Code of Criminal Procedure, any person (including the child), who has apprehension that an offence under this Act is likely to be committed or has knowledge that such an offence has been committed, he shall provide such information to,--\n(a) the Special Juvenile Police Unit; or\n(b) the local police.\n Every report given shall be--\n(a) ascribed an entry number and recorded in writing;\n(b) be read over to the informant;\n(c) shall be entered in a book to be kept by the Police Unit.\nWhere the report is given by a child, the same shall be recorded  in a simple language so that the child understands contents being recorded.\n In case contents are being recorded in the language not understood by the child or wherever it is deemed necessary, a translator or an interpreter, having such qualifications, experience and on payment of such fees as may be prescribed, shall be provided to the child if he fails to understand the same.\n Where the Special Juvenile Police Unit or local police is satisfied that the child against whom an offence has been committed is in need of care and protection, then, it shall, after recording the reasons in writing, make immediate arrangement to give him such care and protection including admitting the child into shelter home or to the nearest hospital within twenty-four hours of the report, as may be prescribed.\n The Special Juvenile Police Unit or local police shall, without unnecessary delay but within a period of twenty-four hours, report the matter to the Child Welfare Committee and the Special Court or where no Special Court has been designated, to the Court of Session, including need of the child for care and protection and steps taken in this regard.\n No person shall incur any liability, whether civil or criminal, for giving the information in good faith for the purpose .\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec19",
+      "dialog_node": "node_1_1624113302267",
+      "previous_sibling": "node_1_1624113287059"
+    },
+    {
+      "type": "standard",
+      "title": "sec 22",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  22\n   \nPunishment for false complaint or false information\n Any person, who makes false complaint or provides false information against any person, in respect of an offence committed solely with the intention to humiliate, extort or threaten or defame him, shall be punished with imprisonment for a term which may extend to six months or with fine or with both.\n Where a false complaint has been made or false information has been provided by a child, no punishment shall be imposed on such child.\n Whoever, not being a child, makes a false complaint or provides false information against a child, knowing it to be false, thereby victimizing such child in any of the offences under this Act, shall be punished with imprisonment, which may extend to one year or with fine or with both.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec22",
+      "dialog_node": "node_1_1624119912637",
+      "previous_sibling": "node_8_1624113315234"
+    },
+    {
+      "type": "standard",
+      "title": "sec 29",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  29\n   \nPresumption as to certain offences\nWhere a person is prosecuted for committing or abetting or attempting to commit any offence under age  of this Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be unless the contrary is proved.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec29",
+      "dialog_node": "node_1_1624120344845",
+      "previous_sibling": "node_8_1624120343463"
+    },
+    {
+      "type": "standard",
+      "title": "sec 35",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  35\n   \nPeriod for recording of evidence of child and disposal of case\n The evidence of the child shall be recorded within a period of thirty days of the Special Court taking cognizance of the offence and reasons for delay, if any, shall be recorded by the Special Court.\n The Special Court shall complete the trial, as far as possible, within a period of one year from the date of taking cognizance of the offence.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec35",
+      "dialog_node": "node_1_1624120346083",
+      "previous_sibling": "node_6_1624120345910"
+    },
+    {
+      "type": "standard",
+      "title": "sec 30",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  30\n   \nPresumption of culpable mental state\n In any prosecution for any offence under this Act which requires a culpable mental state on the part of the accused, the Special Court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.\n For the purposes of this sec, a fact is said to be proved only when the Special Court believes it to exist beyond reasonable doubt and not merely when its existence is established by a preponderance of probability.\nExplanation.--In this sec, \"culpable mental state\" includes intention, motive, knowledge of a fact and the belief in, or reason to believe, a fact.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec30",
+      "dialog_node": "node_1_1624120346431",
+      "previous_sibling": "node_1_1624120344845"
+    },
+    {
+      "type": "standard",
+      "title": "sec 41",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  41\n   \nProvisions of sec  three  not to apply in certain cases\nThe provisions of sec three  (both inclusive) shall not apply in case of medical examination or medical treatment of a child when such medical examination or medical treatment is undertaken with the consent of his parents or guardian.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec41",
+      "dialog_node": "node_1_1624122232686",
+      "previous_sibling": "node_4_1624122230661"
+    },
+    {
+      "type": "standard",
+      "title": "sec 46",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  46  \n \nPower to remove difficulties\nby order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removal of the difficulty:\nProvided that no order shall be made under this sec after the expiry of the period of two years from the commencement of this Act.\nEvery order made under this sec shall be laid, as soon as may be after it is made, before each House of Parliament.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec46",
+      "dialog_node": "node_1_1624122644445",
+      "previous_sibling": "node_10_1624122642537"
+    },
+    {
+      "type": "standard",
+      "title": "section 2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  2\n\n\"child\" means any person below the age of eighteen years;\n\"child pornography\" means any visual depiction of sexually explicit conduct involving a child which include photograph, video, digital or computer generated image indistinguishable from an actual child and image created, adapted, or modified, but appear to depict a child.\n\"shared household\" means a household where the person charged with the offence lives or has lived at any time in a domestic relationship with the child\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec2",
+      "dialog_node": "node_2_1624111682303",
+      "previous_sibling": "node_5_1624098915667"
+    },
+    {
+      "type": "standard",
+      "title": "section 3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  3\n\n Penetrative sexual assault\nA person is said to commit \"penetrative sexual assault\" if--\n(a) he penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a child or makes the child to do so with him or any other person; or\n(b) he inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, the urethra or anus of the child or makes the child to do so with him or any other person; or\n(c) he manipulates any part of the body of the child so as to cause penetration into the vagina, urethra, anus or any part of body of the child or makes the child to do so with him or any other person; or\n(d) he applies his mouth to the penis, vagina, anus, urethra of the child or makes the child to do so to such person or any other person.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec3",
+      "dialog_node": "node_2_1624111699374",
+      "previous_sibling": "node_2_1624111682303"
+    },
+    {
+      "type": "standard",
+      "title": "sec 7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  7\n\nSexual assault\nWhoever, with sexual intent touches the vagina, penis, anus or breast of the child or makes the child touch the vagina, penis, anus or breast of such person or any other person, or does any other act with sexual intent which involves physical contact without penetration is said to commit sexual assault.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec7",
+      "dialog_node": "node_2_1624112807359",
+      "previous_sibling": "node_5_1624111724793"
+    },
+    {
+      "type": "standard",
+      "title": "sec 11",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  11\n  \nSexual harassment\nA person is said to commit sexual harassment upon a child when such person with sexual intent,--\n(i) utters any word or makes any sound, or makes any gesture or exhibits any object or part of body with the intention that such word or sound shall be heard, or such gesture or object or part of body shall be seen by the child; or\n(ii) makes a child exhibit his body or any part of his body so as it is seen by such person or any other person; or\n(iii) shows any object to a child in any form or media for pornographic purposes; or\n(iv) repeatedly or constantly follows or watches or contacts a child either directly or through electronic, digital or any other means; or\n(v) threatens to use, in any form of media, a real or fabricated depiction through electronic, film or digital or any other mode, of any part of the body of the child or the involvement of the child in a sexual act; or\n(vi) entices a child for pornographic purposes or gives gratification therefor.\nExplanation.--Any question which involves '[sexual intent\" shall be a question of fact.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec11",
+      "dialog_node": "node_2_1624113046400",
+      "previous_sibling": "node_3_1624112861805"
+    },
+    {
+      "type": "standard",
+      "title": "sec 20",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  20\n   \nObligation of media, studio and photographic facilities to report cases\nAny personnel of the media or hotel or lodge or hospital or club or studio or photographic facilities, by whatever name called, irrespective of the number of persons employed therein, shall, on coming across any material or object which is sexually exploitative of the child (including pornographic, sexually-related or making obscene representation of a child or children) through the use of any medium, shall provide such information to the Special Juvenile Police Unit, or to the local police, as the case may be.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec20",
+      "dialog_node": "node_2_1624113307283",
+      "previous_sibling": "node_1_1624113302267"
+    },
+    {
+      "type": "standard",
+      "title": "sec 27",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  27\n   \nMedical examination of a child\n The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with  of the Code of Criminal Procedure\n In case the victim is a girl child, the medical examination shall be conducted by a woman doctor.\n The medical examination shall be conducted in the presence of the parent of the child or any other person in whom the child reposes trust or confidence.\n Where, in case the parent of the child or other person referred  cannot be present, for any reason, during the medical examination of the child, the medical examination shall be conducted in the presence of a woman nominated by the head of the medical institution.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec27",
+      "dialog_node": "node_2_1624120341682",
+      "previous_sibling": "node_7_1624119920519"
+    },
+    {
+      "type": "standard",
+      "title": "sec 10",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  10\n   \nPunishment for aggravated sexual assault\nWhoever, commits aggravated sexual assault shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec10",
+      "dialog_node": "node_3_1624112861805",
+      "previous_sibling": "node_9_1624112854984"
+    },
+    {
+      "type": "standard",
+      "title": "sec 23",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  23 \n  \nProcedure for media\n No person shall make any report or present comments on any child from any form of media or studio or photographic facilities without having complete and authentic information, which may have the effect of lowering his reputation or infringing upon his privacy.\n No reports in any media shall disclose, the identity of a child including his name, address, photograph, family details, school, neighbourhood or any other particulars which may lead to disclosure of identity of the child:\nProvided that for reasons to be recorded in writing, the Special Court, competent to try the case under the Act, may permit such disclosure, if in its opinion such disclosure is in the interest of the child.\n The publisher or owner of the media or studio or photographic facilities shall be jointly and severally liable for the acts and omissions of his employee.\n Any person who contravenes the provisions of shall be liable to be punished with imprisonment of either description for a period which shall not be less than six months but which may extend to one year or with fine or with both.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec23",
+      "dialog_node": "node_3_1624119915836",
+      "previous_sibling": "node_1_1624119912637"
+    },
+    {
+      "type": "standard",
+      "title": "sec 4",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  4\n  \nPunishment for penetrative sexual assault\n Whoever commits penetrative sexual assault shall be punished with imprisonment of either description for a term which shall not be less than [ten years] but which may extend to imprisonment for life, and shall also be liable to fine.\n Whoever commits penetrative sexual assault on a child below sixteen years of age shall be punished with imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of natural life of that person and shall also be liable to fine.\nThe fine imposed shall be just and reasonable and paid to the victim to meet the medical expenses and rehabilitation of such victim.]\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec4",
+      "dialog_node": "node_4_1624111703762",
+      "previous_sibling": "node_2_1624111699374"
+    },
+    {
+      "type": "standard",
+      "title": "sec 12",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  12\n  \nPunishment for sexual harassment\nWhoever, commits sexual harassment upon a child shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec12",
+      "dialog_node": "node_4_1624113052421",
+      "previous_sibling": "node_2_1624113046400"
+    },
+    {
+      "type": "standard",
+      "title": "sec 32",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  32\n   \nSpecial Public Prosecutors\n The State Government shall, by notification in the Official Gazette, appoint a Special Public Prosecutor for every Special Court for conducting cases only under the provisions of this Act.\n A person shall be eligible to be appointed as a Special Public Prosecutor  only if he had been in practice for not less than seven years as an advocate.\n Every person appointed as a Special Public Prosecutor under this sec shall be deemed to be a Public Prosecutor within the meaning of clause (u) of  of the Code of Criminal Procedure and provision of that Code shall have effect accordingly.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec32",
+      "dialog_node": "node_4_1624120344442",
+      "previous_sibling": "node_7_1624120345146"
+    },
+    {
+      "type": "standard",
+      "title": "sec 40",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  40\n   \nRight of child to take assistance of legal practitioner\n\nSubject to the proviso of the Code of Criminal Procedurethe family or the guardian of the child shall be entitled to the assistance of a legal counsel of their choice for any offence under this Act:\nProvided that if the family or the guardian of the child are unable to afford a legal counsel, the Legal Services Authority shall provide a lawyer to them.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec40",
+      "dialog_node": "node_4_1624122230661",
+      "previous_sibling": "node_10_1624122229518"
+    },
+    {
+      "type": "standard",
+      "title": "section 1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  1\n\nThis Act may be called the Protection of Children from Sexual Offences Act,  t extends to the whole of India.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec1",
+      "dialog_node": "node_5_1624098915667"
+    },
+    {
+      "type": "standard",
+      "title": "sec6",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  6\n\nPunishment for aggravated penetrative sexual assault\n Punishment for aggravated penetrative sexual assault.--  Whoever commits aggravated penetrative sexual assault shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of natural life of that person and shall also be liable to fine, or with death.\n The fine imposed shall be just and reasonable and paid to the victim to meet the medical expenses and rehabilitation of such victim.]\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec6",
+      "dialog_node": "node_5_1624111724793",
+      "previous_sibling": "node_6_1624111706990"
+    },
+    {
+      "type": "standard",
+      "title": "sec 5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  5  \n Aggravated penetrative sexual assault\n(a) Whoever, being a police officer, commits penetrative sexual assault on a child --\n(i) within the limits of the police station or premises at which he is appointed; or\n(ii) in the premises of any station house, whether or not situated in the police station, to which he is appointed; or\n(iii) in the course of his duties or otherwise; or\n(iv) where he is known as, or identified as, a police officer; or\n(b) whoever being a member of the armed forces or security forces commits penetrative sexual assault on a child--\n(i) within the limits of the area to which the person is deployed; or\n(ii) in any areas under the command of the forces or armed forces; or\n(iii) in the course of his duties or otherwise; or\n(iv) where the said person is known or identified as a member of the security or armed forces; or\n(c) whoever being a public servant commits penetrative sexual assault on a child; or\n(d) whoever being on the management or on the staff of a jail, remand home, protection home, observation home, or other place of custody or care and protection established by or under any law for the time being in force, commits penetrative sexual assault on a child, being inmate of such jail, remand home, protection home, observation home, or other place of custody or care and protection; or\n(e) whoever being on the management or staff of a hospital, whether Government or private, commits penetrative sexual assault on a child in that hospital; or\n(f) whoever being on the management or staff of an educational institution or religious institution, commits penetrative sexual assault on a child in that institution; or\n(g) whoever commits gang penetrative sexual assault on a child.\nExplanation.-- When a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang penetrative sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone;\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec5",
+      "dialog_node": "node_6_1624111706990",
+      "previous_sibling": "node_4_1624111703762"
+    },
+    {
+      "type": "standard",
+      "title": "sec 33",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  33\n   \nProcedure and powers of Special Court\n A Special Court may take cognizance of any offence, without the accused being committed to it for trial, upon receiving a complaint of facts which constitute such offence, or upon a police report of such facts.\n The Special Public Prosecutor, or as the case may be, the counsel appearing for the accused shall, while recording the examination-in-chief, cross-examination or re-examination of the child, communicate the questions to be put to the child to the Special Court which shall in turn put those questions to the child.\n The Special Court may, if it considers necessary, permit frequent breaks for the child during the trial.\n The Special Court shall create a child-friendly atmosphere by allowing a family member, a guardian, a friend or a relative, in whom the child has trust or confidence, to be present in the court.\n The Special Court shall ensure that the child is not called repeatedly to testify in the court.\n The Special Court shall not permit aggressive questioning or character assassination of the child and ensure that dignity of the child is maintained at all times during the trial.\n The Special Court shall ensure that the identity of the child is not disclosed at any time during the course of investigation or trial:\nProvided that for reasons to be recorded in writing, the Special Court may permit such disclosure, if in its opinion such disclosure is in the interest of the child.\nExplanation.--For the purposes of this sub-sec, the identity of the child shall include the identity of the child's family, school, relatives, neighbourhood or any other information by which the identity of the child may be revealed.\nIn appropriate cases, the Special Court may, in addition to the punishment, direct payment of such compensation as may be prescribed to the child for any physical or mental trauma caused to him or for immediate rehabilitation of such child.\nSubject to the provisions of this Act, a Special Court shall, for the purpose of the trial of any offence under this Act, have all the powers of a Court of Session and shall try such offence as if it were a Court of Session, and as far as may be, in accordance with the procedure specified in the Code of Criminal Procedure, for trial before a Court of Session.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec33",
+      "dialog_node": "node_6_1624120345647",
+      "previous_sibling": "node_4_1624120344442"
+    },
+    {
+      "type": "standard",
+      "title": "sec 34",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  34\n   \nProcedure in case of commission of offence by child and determination of age by Special Court.\nWhere any offence under this Act is committed by a child, such child shall be dealt with under the provisions of [the Juvenile Justice (Care and Protection of Children) \nIf any question arises in any proceeding before the Special Court whether a person is a child or not, such question shall be determined by the Special Court after satisfying itself about the age of such person and it shall record in writing its reasons for such determination.\nNo order made by the Special Court shall be deemed to be invalid merely by any subsequent proof that the age of a personas determined by it  was not the correct age of that person.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec34",
+      "dialog_node": "node_6_1624120345910",
+      "previous_sibling": "node_6_1624120345647"
+    },
+    {
+      "type": "standard",
+      "title": "sec 37",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\nSection 37\n   \nTrials to be conducted in camera\nThe Special Court shall try cases in camera and in the presence of the parents of the child or any other person in whom the child has trust or confidence:\nProvided that where the Special Court is of the opinion that the child needs to be examined at a place other than the court, it shall proceed to issue a commission in accordance with the provisions of the Code of Criminal Procedure.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec37",
+      "dialog_node": "node_6_1624122085416",
+      "previous_sibling": "node_7_1624122084350"
+    },
+    {
+      "type": "standard",
+      "title": "sec 14",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  14\n   \nPunishment for using child for pornographic purposes\n Punishment for using child for pornographic purposes.--  Whoever uses a child or children for pornographic purposes shall be punished with imprisonment for a term which shall not be less than five years and shall also be liable to fine and in the event of second or subsequent conviction with imprisonment for a term which shall not be less than seven years and also be liable to fine.\n Whoever using a child or children for pornographic purposes , commits an offence referred to in  directly participating in such pornographic acts, shall be punished for the said offences.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec14",
+      "dialog_node": "node_7_1624113062385",
+      "previous_sibling": "node_1_1624113058381"
+    },
+    {
+      "type": "standard",
+      "title": "sec 24",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  24\n   \nRecording of statement of a child\n The statement of the child shall be recorded at the residence of the child or at a place where he usually resides or at the place of his choice and as far as practicable by a woman police officer not below the rank of sub-inspector.\n The police officer while recording the statement of the child shall not be in uniform.\n The police officer making the investigation, shall, while examining the child, ensure that at no point of time the child come in the contact in any way with the accused.\n No child shall be detained in the police station in the night for any reason.\n The police officer shall ensure that the identity of the child is protected from the public media, unless otherwise directed by the Special Court in the interest of the child.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec24",
+      "dialog_node": "node_7_1624119917554",
+      "previous_sibling": "node_3_1624119915836"
+    },
+    {
+      "type": "standard",
+      "title": "sec 26",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  26\n   \nAdditional provisions regarding statement to be recorded\n The Magistrate or the police officer, as the case may be, shall record the statement as spoken by the child in the presence of the parents of the child or any other person in whom the child has trust or confidence.\n Wherever necessary, the Magistrate or the police officer, as the case may be, may take the assistance of a translator or an interpreter, having such qualifications, experience and on payment of such fees as may be prescribed, while recording the statement of the child.\n The Magistrate or the police officer, as the case may be, may, in the case of a child having a mental or physical disability, seek the assistance of a special educator or any person familiar with the manner of communication of the child or an expert in that field, having such qualifications, experience and on payment of such fees as may be prescribed, to record the statement of the child.\n Wherever possible, the Magistrate or the police officer, as the case may be, shall ensure that the statement of the child is also recorded by audio-video electronic means.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec26",
+      "dialog_node": "node_7_1624119920519",
+      "previous_sibling": "node_10_1624119918938"
+    },
+    {
+      "type": "standard",
+      "title": "sec 31",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  31\n   \nApplication of Code of Criminal Procedure  to proceedings before a Special Court.\nSave as otherwise provided in this Act, the provisions of the Code of Criminal Procedure  (including the provisions as to bail and bonds) shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a court of Sessions and the person conducting a prosecution before a Special Court, shall be deemed to be a Public Prosecutor.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec31",
+      "dialog_node": "node_7_1624120345146",
+      "previous_sibling": "node_1_1624120346431"
+    },
+    {
+      "type": "standard",
+      "title": "sec 36",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  36\n   \nChild not to see accused at the time of testifying\n The Special Court shall ensure that the child is not exposed in any way to the accused at the time of recording of the evidence, while at the same time ensuring that the accused is in a position to hear the statement of the child and communicate with his advocate.\n For the purposes of the Special Court may record the statement of a child through video conferencing or by utilising single visibility mirrors or curtains or any other device.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec36",
+      "dialog_node": "node_7_1624122084350",
+      "previous_sibling": "node_1_1624120346083"
+    },
+    {
+      "type": "standard",
+      "title": "sec 43",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  43 \n  \nPublic awareness about Act\nThe Central Government and every State Government, shall take all measures to ensure that--\n(a) the provisions of this Act are given wide publicity through media including the television, radio and the print media at regular intervals to make the general public, children as well as their parents and guardians aware of the provisions of this Act;\n(b) the officers of the Central Government and the State Governments and other concerned persons (including the police officers) are imparted periodic training on the matters relating to the implementation of the provisions of the Act.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec43",
+      "dialog_node": "node_7_1624122453170",
+      "previous_sibling": "node_10_1624122452647"
+    },
+    {
+      "type": "standard",
+      "title": "sec 15",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section 15\n   \nPunishment for storage of pornographic material involving child\n Punishment for storage of pornographic material involving child.--  Any person, who stores or possesses pornographic material in any form involving a child, but fails to delete or destroy or report the same to the designated authority, as may be prescribed, with an intention to share or transmit child pornography, shall be liable to fine not less than five thousand rupees and in the event of second or subsequent offence, with fine which shall not be less than ten thousand rupees.\n Any person, who stores or possesses pornographic material in any form involving a child for transmitting or propagating or displaying or distributing in any manner at any time except for the purpose of reporting, as may be prescribed, or for use as evidence in court, shall be punished with imprisonment of either description which may extend to three years, or with fine, or with both.\nAny person, who stores or possesses pornographic material in any form involving a child for commercial purpose shall be punished on the first conviction with imprisonment of either description which shall not be less than three years which may extend to five years, or with fine, or with both and in the event of second or subsequent conviction, with imprisonment of either description which shall not be less than five years which may extend to seven years and shall also be liable to fine.]\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec15",
+      "dialog_node": "node_8_1624113081022",
+      "previous_sibling": "node_7_1624113062385"
+    },
+    {
+      "type": "standard",
+      "title": "sec 21",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  21 \n  \nPunishment for failure to report or record a case\nAny person, who fails to report the commission of an offence under sub- of who fails to record such offence under sub  shall be punished with imprisonment of either description which may extend to six months or with fine or with both.\n Any person, being in-charge of any company or an institution (by whatever name called) who fails to report the commission of an offence under sub in respect of a subordinate under his control, shall be punished with imprisonment for a term which may extend to one year and with fine.\n The provisions of sub-sec  shall not apply to a child under this Act.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec21",
+      "dialog_node": "node_8_1624113315234",
+      "previous_sibling": "node_2_1624113307283"
+    },
+    {
+      "type": "standard",
+      "title": "sec 28",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  28 \n  \nDesignation of Special Courts\n For the purposes of providing a speedy trial, the State Government shall in consultation with the Chief Justice of the High Court, by notification in the Official Gazette, designate for each district, a Court of Session to be a Special Court to try the offences under the Act:\nProvided that if a Court of Session is notified as a children's court under the Commissions for Protection of Child Right or a Special Court designated for similar purposes under any other law for the time being in force, then, such court shall be deemed to be a Special Court under this sec.\nWhile trying an offence under this Act, a Special Court shall also try an offence [other than the offence referred to in with which the accused may, under the Code of Criminal Procedure, be charged at the same trial.\nThe Special Court constituted under this Act, notwithstanding anything in the Information Technology act  shall have jurisdiction to try offences under  of that Act in so far as it relates to publication or transmission of sexually explicit material depicting children in any act, or conduct or manner or facilitates abuse of children online.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec28",
+      "dialog_node": "node_8_1624120343463",
+      "previous_sibling": "node_2_1624120341682"
+    },
+    {
+      "type": "standard",
+      "title": "sec 38",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  38\n   \nAssistance of an interpreter or expert while recording evidence of child\n* wherever necessary, the Court may take the assistance of a translator or interpreter having such qualifications, experience and on payment of such fees as may be prescribed, while recording the evidence of the child.\n* If a child has a mental or physical disability, the Special Court may take the assistance of a special educator or any person familiar with the manner of communication of the child or an expert in that field, having such qualifications, experience and on payment of such fees as may be prescribed to record the evidence of the child.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec38",
+      "dialog_node": "node_8_1624122090361",
+      "previous_sibling": "node_6_1624122085416"
+    },
+    {
+      "type": "standard",
+      "title": "sec 44",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  44 \n  \nMonitoring of implementation of Act\n The National Commission for Protection of Child Rights constituted under or as the case may be, the State Commission for Protection of Child Rights constituted  of the Commissions for Protection of Child Rights  shall, in addition to the functions assigned to them under that Act, also monitor the implementation of the provisions of this Act in such manner as may be prescribed.\nThe National Commission or, as the case may be, the State Commission, referred to in sub-sec shall, while inquiring into any matter relating to any offence under this Act, have the same powers as are vested in it under the Commissions for Protection of Child Rights \n The National Commission or, as the case may be, the State Commission, referred to in sub-sec shall, also include, its activities under this sec, in the annual report referred to in of the Commissions for Protection of Child Rights Act \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec44",
+      "dialog_node": "node_8_1624122453683",
+      "previous_sibling": "node_7_1624122453170"
+    },
+    {
+      "type": "standard",
+      "title": "Anomalies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Could you please enter relevant details?"
+              },
+              {
+                "text": "Sorry! I can't get you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "Anything else",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1625506942368",
+      "previous_sibling": "Anything else"
+    },
+    {
+      "type": "standard",
+      "title": "sec 9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  9\n\nAggravated sexual assault\n(a) Whoever, being a police officer, commits sexual assault on a child--\n(i) within the limits of the police station or premises where he is appointed; or\n(ii) in the premises of any station house whether or not situated in the police station to which he is appointed; or\n(iii) in the course of his duties or otherwise; or\n(iv) where he is known as, or identified as a police officer; or\n(b) whoever, being a member of the armed forces or security forces, commits sexual assault on a child--\n(i) within the limits of the area to which the person is deployed; or\n(ii) in any areas under the command of the security or armed forces; or\n(iii) in the course of his duties or otherwise; or\n(iv) where he is known or identified as a member of the security or armed forces; or\n(c) whoever being a public servant commits sexual assault on a child; or\n(d) whoever being on the management or on the staff of a jail, or remand home or protection home or observation home, or other place of custody or care and protection established by or under any law for the time being in force commits sexual assault on a child being inmate of such jail or remand home or protection home or observation home or other place of custody or care and protection; or\n(e) whoever being on the management or staff of a hospital, whether Government or private, commits sexual assault on a child in that hospital; or\n(f) whoever being on the management or staff of an educational institution or religious institution, commits sexual assault on a child in that institution; or\n(g) whoever commits gang sexual assault on a child.\nExplanation.-- when a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone; or\n(h) whoever commits sexual assault on a child using deadly weapons, fire, heated substance or corrosive substance;\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec9",
+      "dialog_node": "node_9_1624112854984",
+      "previous_sibling": "node_10_1624112839525"
+    },
+    {
+      "type": "standard",
+      "title": "sec 17",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Section  17\n   \nPunishment for abetment\nWhoever abets any offence under this Act, if the act abetted is committed in consequence of the abetment, shall be punished with punishment provided for that offence.\nExplanation.-- An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy or with the aid, which constitutes the abetment."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#sec17",
+      "dialog_node": "node_9_1624113281927",
+      "previous_sibling": "node_10_1624113275247"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! I am the Law Finder Bot.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "There are 46 sections in the POCSO Act!\nEnter the act so that, I can fetch you details!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "posco law",
+  "language": "en",
+  "description": ""
+}
